@@ -25,7 +25,7 @@ DIRECT_IMAGE_FEEDS = [
 RELEVANT_KEYWORDS = ["malaria", "plasmodium", "anti-malarial", "antimalarial"]
 IDEAL_MAX_AGE_DAYS = 30
 MIN_ARTICLES = 6
-MAX_ARTICLES = 18
+MAX_ARTICLES = 12
 MAX_PER_SOURCE = 4
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
 IMAGE_FETCH_TIMEOUT = 8
@@ -260,12 +260,6 @@ def dedup_merge(articles):
 
 
 def diversify(candidates, limit, max_per_source=MAX_PER_SOURCE):
-    """
-    Ensures no single source dominates the final list. First pass does a
-    round-robin cap per source (freshest first within each source); if that
-    doesn't fill the limit (not enough distinct sources), remaining slots
-    are backfilled from leftover articles regardless of cap.
-    """
     by_source = {}
     for a in candidates:
         by_source.setdefault(a["source"], []).append(a)
@@ -321,7 +315,10 @@ def main():
 
     try:
         trusted_xml = fetch_url(build_trusted_google_url())
-        all_articles.extend(parse_google_news_feed(trusted_xml))
+        google_articles = parse_google_news_feed(trusted_xml)
+        relevant_google = sum(1 for a in google_articles if a["relevant"])
+        print(f"Google News trusted layer: {len(google_articles)} total items, {relevant_google} relevant")
+        all_articles.extend(google_articles)
     except Exception as e:
         print(f"Google News trusted feed failed: {e}")
 
@@ -341,6 +338,7 @@ def main():
         try:
             fallback_xml = fetch_url(build_fallback_google_url())
             fallback_articles = parse_google_news_feed(fallback_xml)
+            print(f"Google News fallback layer: {len(fallback_articles)} total items")
             all_articles = dedup_merge(all_articles + fallback_articles)
         except Exception as e:
             print(f"Google News fallback feed failed: {e}")
