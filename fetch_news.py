@@ -17,6 +17,14 @@ IDEAL_MAX_AGE_DAYS = 30
 MIN_ARTICLES = 6
 MAX_ARTICLES = 18
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
+IMAGE_FETCH_TIMEOUT = 8
+
+OG_IMAGE_PATTERNS = [
+    re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']', re.IGNORECASE),
+]
 
 
 def build_trusted_url():
@@ -33,6 +41,38 @@ def fetch_feed(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=20) as resp:
         return resp.read()
+
+
+def try_resolve_image(article_link):
+    """
+    Attempt to follow the Google News redirect link to the real publisher
+    page and extract its og:image (falling back to twitter:image).
+    Returns None on any failure -- caller falls back to the gradient card.
+    """
+    try:
+        req = urllib.request.Request(article_link, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=IMAGE_FETCH_TIMEOUT) as resp:
+            final_url = resp.geturl()
+
+            if "news.google.com" in final_url:
+                return None
+
+            content_type = resp.headers.get("Content-Type", "")
+            if "text/html" not in content_type:
+                return None
+
+            raw = resp.read(300000)
+            html = raw.decode("utf-8", errors="ignore")
+
+        for pattern in OG_IMAGE_PATTERNS:
+            match = pattern.search(html)
+            if match:
+                image_url = match.group(1).strip()
+                if image_url.startswith("http"):
+                    return image_url
+        return None
+    except Exception:
+        return None
 
 
 def parse_feed(xml_bytes):
@@ -142,25 +182,34 @@ def main():
 
     selected, stale = select_articles(all_articles)
 
+    resolved_count = 0
+    output_articles = []
+    for a in selected:
+        image_url = try_resolve_image(a["link"])
+        if image_url:
+            resolved_count += 1
+        output_articles.append({
+            "title": a["title"],
+            "link": a["link"],
+            "source": a["source"],
+            "pubDate": a["pubDate"],
+            "image": image_url,
+        })
+
+    print(f"Resolved images for {resolved_count} of {len(output_articles)} articles")
+
     output = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "stale": stale,
-        "count": len(selected),
-        "articles": [
-            {
-                "title": a["title"],
-                "link": a["link"],
-                "source": a["source"],
-                "pubDate": a["pubDate"],
-            }
-            for a in selected
-        ],
+        "count": len(output_articles),
+        "imagesResolved": resolved_count,
+        "articles": output_articles,
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Wrote {len(selected)} articles (stale={stale})")
+    print(f"Wrote {len(output_articles)} articles (stale={stale})")
 
 
 if __name__ == "__main__":
