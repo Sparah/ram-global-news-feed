@@ -2,7 +2,7 @@ name: Update Malaria News Feed
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch: {}
 
 permissions:
