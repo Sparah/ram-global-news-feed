@@ -28,6 +28,7 @@ MIN_ARTICLES = 6
 MAX_ARTICLES = 18
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
 IMAGE_FETCH_TIMEOUT = 8
+IMAGE_VERIFY_TIMEOUT = 5
 
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 IMG_TAG_PATTERN = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
@@ -38,6 +39,14 @@ OG_IMAGE_PATTERNS = [
     re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
     re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']', re.IGNORECASE),
 ]
+
+# BunnyCDN thumbnail folder -> candidate full-size folder names, in priority order.
+# Used specifically for the Phys.org / MedicalXpress network (scx*.b-cdn.net),
+# which serves small previews under /csz/news/tmb/ and larger originals under
+# other numeric/name folders. Each candidate is verified with a live HEAD
+# request before use; if none verify, the original thumbnail is kept.
+BUNNYCDN_TMB_PATTERN = re.compile(r'(https?://[^/]*b-cdn\.net/csz/news/)tmb(/.+)$', re.IGNORECASE)
+BUNNYCDN_CANDIDATE_FOLDERS = ["800", "1024", "large", "lg"]
 
 
 def build_trusted_google_url():
@@ -56,6 +65,37 @@ def fetch_url(url):
         return resp.read()
 
 
+def url_exists(url):
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, method="HEAD")
+        with urllib.request.urlopen(req, timeout=IMAGE_VERIFY_TIMEOUT) as resp:
+            return 200 <= resp.status < 300
+    except Exception:
+        return False
+
+
+def upgrade_image_if_possible(image_url):
+    """
+    If the image is a known BunnyCDN thumbnail (Phys.org/MedicalXpress network),
+    try verified higher-resolution folder alternatives. Falls back to the
+    original thumbnail URL if no candidate verifies successfully.
+    """
+    if not image_url:
+        return image_url
+
+    match = BUNNYCDN_TMB_PATTERN.match(image_url)
+    if not match:
+        return image_url
+
+    prefix, suffix = match.group(1), match.group(2)
+    for folder in BUNNYCDN_CANDIDATE_FOLDERS:
+        candidate = f"{prefix}{folder}{suffix}"
+        if url_exists(candidate):
+            return candidate
+
+    return image_url
+
+
 def scrape_og_image(page_url):
     try:
         req = urllib.request.Request(page_url, headers={"User-Agent": USER_AGENT})
@@ -71,7 +111,7 @@ def scrape_og_image(page_url):
             if match:
                 image_url = match.group(1).strip()
                 if image_url.startswith("http"):
-                    return image_url
+                    return upgrade_image_if_possible(image_url)
         return None
     except Exception:
         return None
@@ -149,21 +189,21 @@ def parse_google_news_feed(xml_bytes):
 def extract_image_from_item(item):
     thumb = item.find(f"{MEDIA_NS}thumbnail")
     if thumb is not None and thumb.get("url"):
-        return thumb.get("url")
+        return upgrade_image_if_possible(thumb.get("url"))
 
     content = item.find(f"{MEDIA_NS}content")
     if content is not None and content.get("url"):
-        return content.get("url")
+        return upgrade_image_if_possible(content.get("url"))
 
     enclosure = item.find("enclosure")
     if enclosure is not None and enclosure.get("type", "").startswith("image") and enclosure.get("url"):
-        return enclosure.get("url")
+        return upgrade_image_if_possible(enclosure.get("url"))
 
     description_el = item.find("description")
     if description_el is not None and description_el.text:
         match = IMG_TAG_PATTERN.search(description_el.text)
         if match:
-            return match.group(1)
+            return upgrade_image_if_possible(match.group(1))
 
     return None
 
