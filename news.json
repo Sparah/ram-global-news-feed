@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T12:10:06.278396+00:00",
-  "stale": true,
+  "generatedAt": "2026-08-10T12:14:11.984581+00:00",
+  "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 5,
   "articles": [
     {
       "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
@@ -12,11 +12,25 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2023/malaria.jpg"
     },
     {
+      "title": "A new front in the fight against malaria: Experimental bed nets halt parasite growth inside mosquitoes",
+      "link": "https://medicalxpress.com/news/2026-08-front-malaria-experimental-bed-nets.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-08-06T14:40:06-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-front-in-the-fig.jpg"
+    },
+    {
       "title": "Malaria can permanently deplete spleen macrophages that filter blood and recycle iron",
       "link": "https://medicalxpress.com/news/2026-08-malaria-permanently-deplete-spleen-macrophages.html",
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-04T18:20:06-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-causes-permane.jpg"
+    },
+    {
+      "title": "Single-dose drug candidate clears malaria parasites in mice, including dormant forms",
+      "link": "https://medicalxpress.com/news/2026-08-dose-drug-candidate-malaria-parasites.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-08-04T13:20:05-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-ne-17.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -37,6 +51,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
       "source": "The Lancet",
       "pubDate": "2026-05-09T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-04-29T07:00:00+00:00",
       "image": null
     },
     {
@@ -66,27 +87,6 @@
       "source": "ScienceDaily",
       "pubDate": "2026-03-19T07:19:27-04:00",
       "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
-    },
-    {
-      "title": "World leaders pledge $11 billion to fight AIDS, malaria and TB, short of target",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3pLQURONDlCTXdVNDlIWTB1MmZVYk9CMzdKd1Q0bHBLTDd1VXZuc2drX1N6M2x1Rk9xMlIta3NkYkRGZmZYamZnYWZRbEZnWWJtMVlDdlVLQ0JNdFlIVFFPd3R2bF8xNmtzTENpRzc3LW9NenZpeTMtSVRTQ19jSmdIcFVZQy1LOHJaR2gyaUp1cDBVSXhObFhXNHVZN1JTQk50czc1dHp5VjNVQzdrbTVQXzVEWTRWU0NvTHFOeGc?oc=5",
-      "source": "Reuters",
-      "pubDate": "2025-11-21T08:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "National Malaria Eradication Service (SENEPA - Paraguay)",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEJuQW5RdmhFQ0V3VTI0blhwZXQ5T21yRmtNZTA5dG4xRVcwbW83SFpvS0U3MHRMbXdYanA2bmFPLXR5MXZOMHh1bVMyTDc2amsyOU9acGJEQVduVU5wbGs0blo1N3dOaFhyYWc1ZzJyQ0owWEZaV2FDc3R6b1Vsek1pb2FUZkhPazdVM0swNmxwSzY5Vmk3TEF5QQ?oc=5",
-      "source": "Devex",
-      "pubDate": "2019-08-22T01:34:04+00:00",
-      "image": null
-    },
-    {
-      "title": "Killer Cocktails: Shaken With A Splash Of Malaria Drugs : The Salt",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkJyV1FoTWNZd0U0SFN3UGtBRFVOdHZQZjRxYzZpaUlNaGNBZGxhcFUxSW1PNUdNY3MtMWlZTEt0cDR1cUc3d0xVeElXbF9Pa3FpdWg3d0g5Wi1IZTlrODJZblRVNGNwOVQwendXbzdkM3NZMlQwRnVaLXhRQ0I5cHEwWGZrZXQ4THE1WmtwOVZkM0ZWbHBsOWxpVFJzZjB2Z3laZDVIQmdwYWZWT1ZhemtKd2J1LUs1?oc=5",
-      "source": "NPR",
-      "pubDate": "2012-12-20T08:00:00+00:00",
-      "image": null
     }
   ]
 }
