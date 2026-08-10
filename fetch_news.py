@@ -24,9 +24,17 @@ IDEAL_MAX_AGE_DAYS = 30
 MIN_ARTICLES = 6
 MAX_ARTICLES = 18
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
+IMAGE_FETCH_TIMEOUT = 8
 
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 IMG_TAG_PATTERN = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
+
+OG_IMAGE_PATTERNS = [
+    re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']', re.IGNORECASE),
+]
 
 
 def build_trusted_google_url():
@@ -43,6 +51,33 @@ def fetch_url(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=20) as resp:
         return resp.read()
+
+
+def scrape_og_image(page_url):
+    """
+    Fetches a REAL (non-redirect-wrapped) article URL directly and scrapes
+    its og:image / twitter:image meta tag. Safe to use for direct-feed
+    articles since their links point straight to the publisher, unlike
+    Google News's obfuscated redirect links.
+    """
+    try:
+        req = urllib.request.Request(page_url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=IMAGE_FETCH_TIMEOUT) as resp:
+            content_type = resp.headers.get("Content-Type", "")
+            if "text/html" not in content_type:
+                return None
+            raw = resp.read(300000)
+            html = raw.decode("utf-8", errors="ignore")
+
+        for pattern in OG_IMAGE_PATTERNS:
+            match = pattern.search(html)
+            if match:
+                image_url = match.group(1).strip()
+                if image_url.startswith("http"):
+                    return image_url
+        return None
+    except Exception:
+        return None
 
 
 def parse_pubdate(raw):
@@ -163,7 +198,10 @@ def parse_direct_feed(xml_bytes, source_name):
             continue
 
         age_days = (datetime.now(timezone.utc) - pub_dt).total_seconds() / 86400.0
+
         image = extract_image_from_item(item)
+        if not image:
+            image = scrape_og_image(link)
 
         articles.append({
             "title": title,
@@ -222,7 +260,8 @@ def main():
         try:
             xml_bytes = fetch_url(feed["url"])
             direct_articles = parse_direct_feed(xml_bytes, feed["name"])
-            print(f"{feed['name']}: {len(direct_articles)} malaria-relevant articles found")
+            with_images = sum(1 for a in direct_articles if a.get("image"))
+            print(f"{feed['name']}: {len(direct_articles)} malaria-relevant articles found, {with_images} with images")
             all_articles.extend(direct_articles)
         except Exception as e:
             print(f"Direct feed '{feed['name']}' failed: {e}")
