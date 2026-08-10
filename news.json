@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T11:34:41.593105+00:00",
+  "generatedAt": "2026-08-10T11:37:28.959471+00:00",
   "stale": true,
   "count": 18,
-  "imagesResolved": 0,
+  "imagesResolved": 2,
   "articles": [
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -72,14 +72,14 @@
       "link": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
       "source": "ScienceDaily",
       "pubDate": "2026-03-19T07:19:27-04:00",
-      "image": null
+      "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
     },
     {
       "title": "Scientists discover the protein that malaria parasites can’t live without",
       "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
       "source": "ScienceDaily",
       "pubDate": "2026-03-05T00:03:04-05:00",
-      "image": null
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
     },
     {
       "title": "The influence of malaria and gestation on the immune response to one and two doses of adsorbed tetanus toxoid in pregnancy",
