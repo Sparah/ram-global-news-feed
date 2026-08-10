@@ -27,6 +27,7 @@ IDEAL_MAX_AGE_DAYS = 30
 MIN_ARTICLES = 6
 MAX_ARTICLES = 12
 MAX_PER_SOURCE = 4
+MIN_DISTINCT_SOURCES = 4
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
 IMAGE_FETCH_TIMEOUT = 8
 IMAGE_VERIFY_TIMEOUT = 5
@@ -294,20 +295,35 @@ def diversify(candidates, limit, max_per_source=MAX_PER_SOURCE):
     return selected
 
 
+def distinct_source_count(pool):
+    return len(set(a["source"] for a in pool))
+
+
 def select_articles(parsed):
     parsed.sort(key=lambda a: a["pubDate"], reverse=True)
-    stale = False
 
     tier1 = [a for a in parsed if a["relevant"] and a["ageDays"] <= IDEAL_MAX_AGE_DAYS]
-    if len(tier1) >= MIN_ARTICLES:
+
+    # Only accept the strict-freshness tier outright if it ALSO has enough
+    # source variety. Otherwise a single prolific source (e.g. one science
+    # news outlet publishing daily) can silently starve out everyone else
+    # just by clearing the minimum article COUNT, without ever being
+    # diverse. If diversity is insufficient, fall through to the wider
+    # (slightly older) pool so genuinely different outlets get a chance.
+    if len(tier1) >= MIN_ARTICLES and distinct_source_count(tier1) >= MIN_DISTINCT_SOURCES:
+        print(f"Selection: using fresh tier ({len(tier1)} articles, {distinct_source_count(tier1)} sources)")
         return diversify(tier1, MAX_ARTICLES), False
 
     tier2 = [a for a in parsed if a["relevant"]]
     if len(tier2) >= MIN_ARTICLES:
-        return diversify(tier2, MAX_ARTICLES), len(tier2) > len(tier1)
+        went_stale = distinct_source_count(tier1) < MIN_DISTINCT_SOURCES or len(tier2) > len(tier1)
+        print(f"Selection: fresh tier lacked diversity ({distinct_source_count(tier1)} sources), "
+              f"widening to relevance-only tier ({len(tier2)} articles, {distinct_source_count(tier2)} sources)")
+        return diversify(tier2, MAX_ARTICLES), went_stale
 
     tier3 = parsed[: max(MIN_ARTICLES, len(tier2))]
-    return diversify(tier3, MAX_ARTICLES), len(tier3) > len(tier2)
+    print(f"Selection: relevance-only tier too small, backfilling with any available items ({len(tier3)} articles)")
+    return diversify(tier3, MAX_ARTICLES), True
 
 
 def main():
