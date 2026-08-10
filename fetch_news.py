@@ -23,7 +23,7 @@ DIRECT_IMAGE_FEEDS = [
 ]
 
 RELEVANT_KEYWORDS = ["malaria", "plasmodium", "anti-malarial", "antimalarial"]
-IDEAL_MAX_AGE_DAYS = 30
+IDEAL_MAX_AGE_DAYS = 182
 MIN_ARTICLES = 6
 MAX_ARTICLES = 12
 MAX_PER_SOURCE = 4
@@ -304,12 +304,6 @@ def select_articles(parsed):
 
     tier1 = [a for a in parsed if a["relevant"] and a["ageDays"] <= IDEAL_MAX_AGE_DAYS]
 
-    # Only accept the strict-freshness tier outright if it ALSO has enough
-    # source variety. Otherwise a single prolific source (e.g. one science
-    # news outlet publishing daily) can silently starve out everyone else
-    # just by clearing the minimum article COUNT, without ever being
-    # diverse. If diversity is insufficient, fall through to the wider
-    # (slightly older) pool so genuinely different outlets get a chance.
     if len(tier1) >= MIN_ARTICLES and distinct_source_count(tier1) >= MIN_DISTINCT_SOURCES:
         print(f"Selection: using fresh tier ({len(tier1)} articles, {distinct_source_count(tier1)} sources)")
         return diversify(tier1, MAX_ARTICLES), False
