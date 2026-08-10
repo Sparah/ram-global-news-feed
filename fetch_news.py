@@ -15,6 +15,8 @@ DIRECT_IMAGE_FEEDS = [
     {"name": "BBC Health", "url": "https://feeds.bbci.co.uk/news/health/rss.xml"},
     {"name": "The Guardian", "url": "https://www.theguardian.com/society/health/rss"},
     {"name": "NPR Health", "url": "https://feeds.npr.org/1128/rss.xml"},
+    {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/health_medicine/malaria.xml"},
+    {"name": "STAT News", "url": "https://www.statnews.com/feed/"},
 ]
 
 RELEVANT_KEYWORDS = ["malaria", "plasmodium", "anti-malarial", "antimalarial"]
