@@ -17,6 +17,9 @@ DIRECT_IMAGE_FEEDS = [
     {"name": "NPR Health", "url": "https://feeds.npr.org/1128/rss.xml"},
     {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/health_medicine/malaria.xml"},
     {"name": "STAT News", "url": "https://www.statnews.com/feed/"},
+    {"name": "MedicalXpress Infectious Diseases", "url": "https://medicalxpress.com/rss-feed/infectious-diseases-news/"},
+    {"name": "MedicalXpress Malaria Search", "url": "https://medicalxpress.com/rss-feed/search/?search=malaria"},
+    {"name": "Nature Malaria", "url": "https://www.nature.com/subjects/malaria.rss"},
 ]
 
 RELEVANT_KEYWORDS = ["malaria", "plasmodium", "anti-malarial", "antimalarial"]
@@ -54,12 +57,6 @@ def fetch_url(url):
 
 
 def scrape_og_image(page_url):
-    """
-    Fetches a REAL (non-redirect-wrapped) article URL directly and scrapes
-    its og:image / twitter:image meta tag. Safe to use for direct-feed
-    articles since their links point straight to the publisher, unlike
-    Google News's obfuscated redirect links.
-    """
     try:
         req = urllib.request.Request(page_url, headers={"User-Agent": USER_AGENT})
         with urllib.request.urlopen(req, timeout=IMAGE_FETCH_TIMEOUT) as resp:
