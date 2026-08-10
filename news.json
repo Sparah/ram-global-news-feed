@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T12:05:48.931261+00:00",
-  "stale": false,
-  "count": 9,
-  "imagesResolved": 9,
+  "generatedAt": "2026-08-10T12:10:06.278396+00:00",
+  "stale": true,
+  "count": 12,
+  "imagesResolved": 3,
   "articles": [
     {
       "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
@@ -12,13 +12,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2023/malaria.jpg"
     },
     {
-      "title": "A new front in the fight against malaria: Experimental bed nets halt parasite growth inside mosquitoes",
-      "link": "https://medicalxpress.com/news/2026-08-front-malaria-experimental-bed-nets.html",
-      "source": "MedicalXpress Infectious Diseases",
-      "pubDate": "2026-08-06T14:40:06-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-front-in-the-fig.jpg"
-    },
-    {
       "title": "Malaria can permanently deplete spleen macrophages that filter blood and recycle iron",
       "link": "https://medicalxpress.com/news/2026-08-malaria-permanently-deplete-spleen-macrophages.html",
       "source": "MedicalXpress Malaria Search",
@@ -26,46 +19,74 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-causes-permane.jpg"
     },
     {
-      "title": "Single-dose drug candidate clears malaria parasites in mice, including dormant forms",
-      "link": "https://medicalxpress.com/news/2026-08-dose-drug-candidate-malaria-parasites.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-04T13:20:05-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-ne-17.jpg"
+      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-06-02T07:00:00+00:00",
+      "image": null
     },
     {
-      "title": "Climate change is redrawing the malaria map in Africa, study finds",
-      "link": "https://medicalxpress.com/news/2026-07-climate-redrawing-malaria-africa.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-07-29T12:40:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/climate-change-is-redr.jpg"
+      "title": "Malaria and Vector-Borne Diseases",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-26T13:18:37+00:00",
+      "image": null
     },
     {
-      "title": "Study finds malaria chemoprevention for school-aged children could deliver billions in health and economic benefits",
-      "link": "https://medicalxpress.com/news/2026-07-malaria-chemoprevention-school-aged-children.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-07-23T09:20:03-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-1.jpg"
+      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-05-09T07:00:00+00:00",
+      "image": null
     },
     {
-      "title": "New malaria drug candidate shows promise in Phase I trial",
-      "link": "https://medicalxpress.com/news/2026-07-malaria-drug-candidate-phase-trial.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-07-15T10:40:10-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2014/malaria.jpg"
+      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-04-25T07:00:00+00:00",
+      "image": null
     },
     {
-      "title": "The new malaria vaccine helps in Africa but faces a test: Completing all 4 doses",
-      "link": "https://medicalxpress.com/news/2026-07-malaria-vaccine-africa-doses.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-07-15T04:19:45-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-new-malaria-vaccin.jpg"
+      "title": "Severe malaria in early childhood tied to long-term cognitive issues",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
+      "source": "CIDRAP",
+      "pubDate": "2026-04-21T07:00:00+00:00",
+      "image": null
     },
     {
-      "title": "Artemisinin resistance is rising in East Africa—leaving anti-malarials at risk of failure",
-      "link": "https://medicalxpress.com/news/2026-07-artemisinin-resistance-east-africa-anti.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-07-11T17:00:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/artemisinin-resistance.jpg"
+      "title": "IMACS Joins NASA-Funded Project led by University of Maryland to Predict Malaria and Dengue in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWprWkp6TnJQdklHNmo3X1h3OG40djZDVnlrUHMySXltblQya3R0MW9oMUd3MWJ5MV84MlN3cWN5R1BESi1pQ3pla2J0LTJrY09Dd1M2OHZEOVhFNnJ0bnFVOG0tRjFha0ZRaFFDSFRMS2YwSGFFZWpIS0tuUTdGcHhkQ2xmbHo1aFBUTnhFYVVEZWtwTUItaUNlU3ZTVlZHWWw5eENPcFJXbFVHOGUyU2dlOXFwUlQ4MklXSFNLV1dXRUF0bHVRVXBtN0liWm9XR1BpREZEY05fQ1E?oc=5",
+      "source": "Malaria No More",
+      "pubDate": "2026-04-01T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Scientists discover tiny rocket engines inside malaria parasites",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-19T07:19:27-04:00",
+      "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
+    },
+    {
+      "title": "World leaders pledge $11 billion to fight AIDS, malaria and TB, short of target",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3pLQURONDlCTXdVNDlIWTB1MmZVYk9CMzdKd1Q0bHBLTDd1VXZuc2drX1N6M2x1Rk9xMlIta3NkYkRGZmZYamZnYWZRbEZnWWJtMVlDdlVLQ0JNdFlIVFFPd3R2bF8xNmtzTENpRzc3LW9NenZpeTMtSVRTQ19jSmdIcFVZQy1LOHJaR2gyaUp1cDBVSXhObFhXNHVZN1JTQk50czc1dHp5VjNVQzdrbTVQXzVEWTRWU0NvTHFOeGc?oc=5",
+      "source": "Reuters",
+      "pubDate": "2025-11-21T08:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "National Malaria Eradication Service (SENEPA - Paraguay)",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEJuQW5RdmhFQ0V3VTI0blhwZXQ5T21yRmtNZTA5dG4xRVcwbW83SFpvS0U3MHRMbXdYanA2bmFPLXR5MXZOMHh1bVMyTDc2amsyOU9acGJEQVduVU5wbGs0blo1N3dOaFhyYWc1ZzJyQ0owWEZaV2FDc3R6b1Vsek1pb2FUZkhPazdVM0swNmxwSzY5Vmk3TEF5QQ?oc=5",
+      "source": "Devex",
+      "pubDate": "2019-08-22T01:34:04+00:00",
+      "image": null
+    },
+    {
+      "title": "Killer Cocktails: Shaken With A Splash Of Malaria Drugs : The Salt",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkJyV1FoTWNZd0U0SFN3UGtBRFVOdHZQZjRxYzZpaUlNaGNBZGxhcFUxSW1PNUdNY3MtMWlZTEt0cDR1cUc3d0xVeElXbF9Pa3FpdWg3d0g5Wi1IZTlrODJZblRVNGNwOVQwendXbzdkM3NZMlQwRnVaLXhRQ0I5cHEwWGZrZXQ4THE1WmtwOVZkM0ZWbHBsOWxpVFJzZjB2Z3laZDVIQmdwYWZWT1ZhemtKd2J1LUs1?oc=5",
+      "source": "NPR",
+      "pubDate": "2012-12-20T08:00:00+00:00",
+      "image": null
     }
   ]
 }
