@@ -26,6 +26,7 @@ RELEVANT_KEYWORDS = ["malaria", "plasmodium", "anti-malarial", "antimalarial"]
 IDEAL_MAX_AGE_DAYS = 30
 MIN_ARTICLES = 6
 MAX_ARTICLES = 18
+MAX_PER_SOURCE = 4
 USER_AGENT = "Mozilla/5.0 (compatible; RAMGlobalNewsBot/1.0; +https://github.com/Sparah/ram-global-news-feed)"
 IMAGE_FETCH_TIMEOUT = 8
 IMAGE_VERIFY_TIMEOUT = 5
@@ -40,11 +41,6 @@ OG_IMAGE_PATTERNS = [
     re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']twitter:image["\']', re.IGNORECASE),
 ]
 
-# BunnyCDN thumbnail folder -> candidate full-size folder names, in priority order.
-# Used specifically for the Phys.org / MedicalXpress network (scx*.b-cdn.net),
-# which serves small previews under /csz/news/tmb/ and larger originals under
-# other numeric/name folders. Each candidate is verified with a live HEAD
-# request before use; if none verify, the original thumbnail is kept.
 BUNNYCDN_TMB_PATTERN = re.compile(r'(https?://[^/]*b-cdn\.net/csz/news/)tmb(/.+)$', re.IGNORECASE)
 BUNNYCDN_CANDIDATE_FOLDERS = ["800", "1024", "large", "lg"]
 
@@ -75,11 +71,6 @@ def url_exists(url):
 
 
 def upgrade_image_if_possible(image_url):
-    """
-    If the image is a known BunnyCDN thumbnail (Phys.org/MedicalXpress network),
-    try verified higher-resolution folder alternatives. Falls back to the
-    original thumbnail URL if no candidate verifies successfully.
-    """
     if not image_url:
         return image_url
 
@@ -268,20 +259,61 @@ def dedup_merge(articles):
     return [seen[k] for k in order]
 
 
+def diversify(candidates, limit, max_per_source=MAX_PER_SOURCE):
+    """
+    Ensures no single source dominates the final list. First pass does a
+    round-robin cap per source (freshest first within each source); if that
+    doesn't fill the limit (not enough distinct sources), remaining slots
+    are backfilled from leftover articles regardless of cap.
+    """
+    by_source = {}
+    for a in candidates:
+        by_source.setdefault(a["source"], []).append(a)
+    for s in by_source:
+        by_source[s].sort(key=lambda a: a["pubDate"], reverse=True)
+
+    selected = []
+    selected_ids = set()
+    idx = {s: 0 for s in by_source}
+
+    while len(selected) < limit:
+        progressed = False
+        for s in by_source:
+            if idx[s] < min(max_per_source, len(by_source[s])) and len(selected) < limit:
+                item = by_source[s][idx[s]]
+                selected.append(item)
+                selected_ids.add(id(item))
+                idx[s] += 1
+                progressed = True
+        if not progressed:
+            break
+
+    if len(selected) < limit:
+        leftover = [a for a in candidates if id(a) not in selected_ids]
+        leftover.sort(key=lambda a: a["pubDate"], reverse=True)
+        for a in leftover:
+            if len(selected) >= limit:
+                break
+            selected.append(a)
+
+    selected.sort(key=lambda a: a["pubDate"], reverse=True)
+    return selected
+
+
 def select_articles(parsed):
     parsed.sort(key=lambda a: a["pubDate"], reverse=True)
     stale = False
 
     tier1 = [a for a in parsed if a["relevant"] and a["ageDays"] <= IDEAL_MAX_AGE_DAYS]
     if len(tier1) >= MIN_ARTICLES:
-        return tier1[:MAX_ARTICLES], False
+        return diversify(tier1, MAX_ARTICLES), False
 
     tier2 = [a for a in parsed if a["relevant"]]
     if len(tier2) >= MIN_ARTICLES:
-        return tier2[:MAX_ARTICLES], len(tier2) > len(tier1)
+        return diversify(tier2, MAX_ARTICLES), len(tier2) > len(tier1)
 
     tier3 = parsed[: max(MIN_ARTICLES, len(tier2))]
-    return tier3[:MAX_ARTICLES], len(tier3) > len(tier2)
+    return diversify(tier3, MAX_ARTICLES), len(tier3) > len(tier2)
 
 
 def main():
@@ -315,6 +347,7 @@ def main():
 
     selected, stale = select_articles(all_articles)
     images_found = sum(1 for a in selected if a.get("image"))
+    unique_sources = len(set(a["source"] for a in selected))
 
     output = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
@@ -336,7 +369,7 @@ def main():
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Wrote {len(selected)} articles, {images_found} with real images (stale={stale})")
+    print(f"Wrote {len(selected)} articles from {unique_sources} distinct sources, {images_found} with real images (stale={stale})")
 
 
 if __name__ == "__main__":
