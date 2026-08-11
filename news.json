@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-10T12:14:11.984581+00:00",
+  "generatedAt": "2026-08-11T07:00:27.497152+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 5,
   "articles": [
+    {
+      "title": "Study reveals growing signs of malaria drug resistance in Ethiopia",
+      "link": "https://medicalxpress.com/news/2026-08-reveals-malaria-drug-resistance-ethiopia.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-08-10T13:20:09-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-reveals-growing.jpg"
+    },
     {
       "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
       "link": "https://medicalxpress.com/news/2026-08-malaria-vaccine-ons-antibody.html",
       "source": "MedicalXpress Infectious Diseases",
       "pubDate": "2026-08-08T06:00:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2023/malaria.jpg"
-    },
-    {
-      "title": "A new front in the fight against malaria: Experimental bed nets halt parasite growth inside mosquitoes",
-      "link": "https://medicalxpress.com/news/2026-08-front-malaria-experimental-bed-nets.html",
-      "source": "MedicalXpress Infectious Diseases",
-      "pubDate": "2026-08-06T14:40:06-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-front-in-the-fig.jpg"
     },
     {
       "title": "Malaria can permanently deplete spleen macrophages that filter blood and recycle iron",
@@ -42,7 +42,7 @@
     {
       "title": "Malaria and Vector-Borne Diseases",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "World Health Organization (WHO)",
+      "source": "who.int",
       "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     },
@@ -63,7 +63,7 @@
     {
       "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     },
