@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-08-14T07:18:46.228130+00:00",
+  "generatedAt": "2026-08-15T06:31:28.995674+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 5,
   "articles": [
+    {
+      "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
+      "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-08-14T05:40:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
+    },
     {
       "title": "Study reveals growing signs of malaria drug resistance in Ethiopia",
       "link": "https://medicalxpress.com/news/2026-08-reveals-malaria-drug-resistance-ethiopia.html",
@@ -14,7 +21,7 @@
     {
       "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
       "link": "https://medicalxpress.com/news/2026-08-malaria-vaccine-ons-antibody.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-08T06:00:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2023/malaria.jpg"
     },
@@ -24,13 +31,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-06T14:40:06-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-front-in-the-fig.jpg"
-    },
-    {
-      "title": "Malaria can permanently deplete spleen macrophages that filter blood and recycle iron",
-      "link": "https://medicalxpress.com/news/2026-08-malaria-permanently-deplete-spleen-macrophages.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-04T18:20:06-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-causes-permane.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -70,7 +70,7 @@
     {
       "title": "Severe malaria in early childhood tied to long-term cognitive issues",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
-      "source": "cidrap.umn.edu",
+      "source": "CIDRAP",
       "pubDate": "2026-04-21T07:00:00+00:00",
       "image": null
     },
