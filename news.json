@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-08-17T06:46:20.943743+00:00",
+  "generatedAt": "2026-08-18T06:36:19.067977+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 5,
   "articles": [
+    {
+      "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
+      "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-08-17T05:20:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
+    },
     {
       "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
       "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
@@ -42,8 +49,15 @@
     {
       "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "thelancet.com",
+      "source": "The Lancet",
       "pubDate": "2026-05-09T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-04-29T07:00:00+00:00",
       "image": null
     },
     {
@@ -56,22 +70,8 @@
     {
       "title": "Severe malaria in early childhood tied to long-term cognitive issues",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
-      "source": "cidrap.umn.edu",
+      "source": "CIDRAP",
       "pubDate": "2026-04-21T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "The indirect haemagglutination test for malaria and its application to epidemiological surveillance*",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczd5STNGam5OQ2t0empRMDR6RUctenZGYzZIVjNZN3B3akFJX05qQTVXejlUWU1scHFSN2Z2MzFjaFhhbUh5UWhvdVFTV3FNZk1PVFVKaUJ0NVhxb0Zic1pEVHNGa21GWVhOc2hOZ3hNQjNvaGx6aWszb0Y2SUt6ZUhwdw?oc=5",
-      "source": "iris.who.int",
-      "pubDate": "2026-04-21T04:21:09+00:00",
-      "image": null
-    },
-    {
-      "title": "EXCLUSIVE: US upends global supply program for malaria and HIV amid warnings of gaps",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDFOU2Qwa3JoUDcxS2d0TDdCc0xKWTRVdkFoR3JTSEJ5ejBjdmRGVkllSjV5YWlfS1lXYnRQSHp1ajZPQ3RWZlp4UW9wU1podDl1RUVxb2NGeWRqeGdjZkdXbmNOZHQ4UVRxTnBIUlh5QUJxMjdSYURXZFZGWGNEb0h0d1EwODZkYUJHUzg0SXJoSU1rLWdMQjBvZ0pWYVdVNkp2TW9VX2twTFhQbk5mMk1qZklGV3dtZ0lOb3FyWm9aekxrTFhTMUpEN3ZfYnM?oc=5",
-      "source": "Reuters",
-      "pubDate": "2026-04-03T07:00:00+00:00",
       "image": null
     },
     {
