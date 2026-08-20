@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:37:23.872142+00:00",
+  "generatedAt": "2026-08-20T06:39:04.535123+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 5,
@@ -14,7 +14,7 @@
     {
       "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
       "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-14T05:40:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
     },
@@ -24,13 +24,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-10T13:20:09-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-reveals-growing.jpg"
-    },
-    {
-      "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
-      "link": "https://medicalxpress.com/news/2026-08-malaria-vaccine-ons-antibody.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-08T06:00:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2023/malaria.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -61,13 +54,6 @@
       "image": null
     },
     {
-      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-04-25T07:00:00+00:00",
-      "image": null
-    },
-    {
       "title": "Severe malaria in early childhood tied to long-term cognitive issues",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
       "source": "CIDRAP",
@@ -87,6 +73,20 @@
       "source": "ScienceDaily",
       "pubDate": "2026-03-19T07:19:27-04:00",
       "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
+    },
+    {
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-05T00:03:04-05:00",
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
+    },
+    {
+      "title": "Malaria No More Honors Congressional Champions, American Innovators Driving Growth and Saving Lives",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1pJekpIb0VnWjE4dWo2d1ZUZDdpVXNUd1RMSWJJdXp6Z2l4SkFXMjZEMWthZFdOVFh3enJjUFdmc2tMSkp0QlZBSFJMVmhMaUZLYkYwcEVuN1pURFN1VXNnTnhUOGhVU0FHZmlzRVRmclNpQnQtcDJHZm1nNWFNRXBZVEdrdUJmYi1WaVRfZF9tc0gtemlScWFFSF9rOFFIT3l5aU5RMURSeWNIRkFCNWgyOUpwa3ZfQjhIbm1wRHliamJKejJpdy1wOVFHQUdZU05z?oc=5",
+      "source": "Malaria No More",
+      "pubDate": "2026-02-24T08:00:00+00:00",
+      "image": null
     }
   ]
 }
