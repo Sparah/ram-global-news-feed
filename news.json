@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T06:39:04.535123+00:00",
+  "generatedAt": "2026-08-21T06:39:07.802547+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 5,
+  "imagesResolved": 4,
   "articles": [
     {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
       "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-17T05:20:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
@@ -17,13 +17,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-14T05:40:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
-    },
-    {
-      "title": "Study reveals growing signs of malaria drug resistance in Ethiopia",
-      "link": "https://medicalxpress.com/news/2026-08-reveals-malaria-drug-resistance-ethiopia.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-10T13:20:09-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-reveals-growing.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -51,6 +44,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
       "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-04-29T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     },
     {
