@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T06:39:07.802547+00:00",
+  "generatedAt": "2026-08-22T06:33:28.727368+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 3,
   "articles": [
     {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
@@ -22,7 +22,7 @@
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
       "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-07-14T15:49:30+00:00",
+      "pubDate": "2026-06-02T07:00:00+00:00",
       "image": null
     },
     {
@@ -37,6 +37,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-25T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     },
     {
@@ -75,17 +82,10 @@
       "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
     },
     {
-      "title": "Scientists discover the protein that malaria parasites can’t live without",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2026-03-05T00:03:04-05:00",
-      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
-    },
-    {
-      "title": "Malaria No More Honors Congressional Champions, American Innovators Driving Growth and Saving Lives",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1pJekpIb0VnWjE4dWo2d1ZUZDdpVXNUd1RMSWJJdXp6Z2l4SkFXMjZEMWthZFdOVFh3enJjUFdmc2tMSkp0QlZBSFJMVmhMaUZLYkYwcEVuN1pURFN1VXNnTnhUOGhVU0FHZmlzRVRmclNpQnQtcDJHZm1nNWFNRXBZVEdrdUJmYi1WaVRfZF9tc0gtemlScWFFSF9rOFFIT3l5aU5RMURSeWNIRkFCNWgyOUpwa3ZfQjhIbm1wRHliamJKejJpdy1wOVFHQUdZU05z?oc=5",
+      "title": "Malaria Know More: Implementing Early Warning Systems for Climate-Sensitive Diseases in Bangladesh",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVltZmlCVFZzTjNfbEhILUJ2QlRvX1hBSmNRbmhXVFlOeEV6dFRZODhnZjY0YzYtbU1CZFNjWTdPOVozOXhjdWo5OFJudFZuWDEtVDRhOHFhb3lXRFB0OFNPMDcwbE92SFNNUnBFMHdvT0ZyOEJwU1Q5V3dVMng0bGlvU0ljb1RpengtQWtOTzNHMUFNT3Z5S3loa1Z4bWlOcE5BVHVtMk95LVZLa0ZfMjRpTGNadw?oc=5",
       "source": "Malaria No More",
-      "pubDate": "2026-02-24T08:00:00+00:00",
+      "pubDate": "2026-03-12T07:00:00+00:00",
       "image": null
     }
   ]
