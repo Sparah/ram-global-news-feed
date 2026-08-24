@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T06:34:40.390356+00:00",
+  "generatedAt": "2026-08-24T06:51:06.250941+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 4,
   "articles": [
     {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
@@ -37,13 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-25T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     },
     {
@@ -87,6 +80,13 @@
       "source": "Malaria No More",
       "pubDate": "2026-03-12T07:00:00+00:00",
       "image": null
+    },
+    {
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-05T00:03:04-05:00",
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
     }
   ]
 }
