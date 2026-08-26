@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T06:39:54.299964+00:00",
+  "generatedAt": "2026-08-26T06:41:14.686896+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 4,
   "articles": [
     {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
@@ -19,10 +19,17 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
     },
     {
+      "title": "Bringing Health Care Closer: Tackling Malaria and Childhood Illness in Tanzania",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFJ4cTFCeldsOTNwazJSaW91TlFPSExTMmUzRXhUTEhZdUo0WVJVLV9FenZQaDNxZ2tOaWJBaHVMWTBLcDRIVExweHV2YUZ1MGNadFZKUE1sdWtScFZNcy1XZWVqbzdzY2NqeEd4OGJXNkV1elZnZEhfMGlvLTQxMDNQX2dCdDdQdUdwaDVoZWlZWU5aNkNyMVV0akpmZW9ScmNJaXFzVWQycXBMMk41dWZ2TzMyREsxbDdFeQ?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-08-11T04:27:08+00:00",
+      "image": null
+    },
+    {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
       "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-06-02T07:00:00+00:00",
+      "pubDate": "2026-07-14T15:49:30+00:00",
       "image": null
     },
     {
@@ -37,20 +44,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-25T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-05-09T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-04-29T07:00:00+00:00",
       "image": null
     },
     {
@@ -87,6 +80,13 @@
       "source": "Malaria No More",
       "pubDate": "2026-03-12T07:00:00+00:00",
       "image": null
+    },
+    {
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-05T00:03:04-05:00",
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
     }
   ]
 }
