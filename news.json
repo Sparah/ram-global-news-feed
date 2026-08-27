@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-08-26T06:41:14.686896+00:00",
+  "generatedAt": "2026-08-27T17:16:52.927071+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 5,
   "articles": [
+    {
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15QkkxRExIZWVDelliVkRfdGJjS3E5Z3ZhWEJzMzNCZ3QzX1J0SEJ2cG13Wm9idjYzQUxVRHp6OWRFb1ZLNXBXWmllSWw4N1B5dEVwUmR6N2N3Zw?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-08-26T18:22:41+00:00",
+      "image": null
+    },
+    {
+      "title": "Two German airport workers die of malaria from mosquito on plane",
+      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-08-26T11:00:04-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
+    },
     {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
       "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
@@ -47,13 +61,6 @@
       "image": null
     },
     {
-      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-04-25T07:00:00+00:00",
-      "image": null
-    },
-    {
       "title": "Severe malaria in early childhood tied to long-term cognitive issues",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
       "source": "CIDRAP",
@@ -73,13 +80,6 @@
       "source": "ScienceDaily",
       "pubDate": "2026-03-19T07:19:27-04:00",
       "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
-    },
-    {
-      "title": "Malaria Know More: Implementing Early Warning Systems for Climate-Sensitive Diseases in Bangladesh",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVltZmlCVFZzTjNfbEhILUJ2QlRvX1hBSmNRbmhXVFlOeEV6dFRZODhnZjY0YzYtbU1CZFNjWTdPOVozOXhjdWo5OFJudFZuWDEtVDRhOHFhb3lXRFB0OFNPMDcwbE92SFNNUnBFMHdvT0ZyOEJwU1Q5V3dVMng0bGlvU0ljb1RpengtQWtOTzNHMUFNT3Z5S3loa1Z4bWlOcE5BVHVtMk95LVZLa0ZfMjRpTGNadw?oc=5",
-      "source": "Malaria No More",
-      "pubDate": "2026-03-12T07:00:00+00:00",
-      "image": null
     },
     {
       "title": "Scientists discover the protein that malaria parasites can’t live without",
