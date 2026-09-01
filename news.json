@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:35:47.861880+00:00",
+  "generatedAt": "2026-09-01T11:02:18.802504+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
@@ -28,7 +28,7 @@
     {
       "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
       "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-26T11:00:04-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
@@ -38,13 +38,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-17T05:20:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
-      "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
-      "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-14T05:40:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
     },
     {
       "title": "Bringing Health Care Closer: Tackling Malaria and Childhood Illness in Tanzania",
@@ -87,6 +80,13 @@
       "source": "ScienceDaily",
       "pubDate": "2026-03-19T07:19:27-04:00",
       "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
+    },
+    {
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-05T00:03:04-05:00",
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
     }
   ]
 }
