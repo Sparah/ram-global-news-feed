@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-09-01T11:02:18.802504+00:00",
+  "generatedAt": "2026-09-02T10:33:02.671198+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 5,
   "articles": [
-    {
-      "title": "Quick takes: Infant botulism, New World screwworm preventative, ‘airport malaria’ in Germany, new polio cases in Africa",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUm80Wlk0MDZtN2puYzZzdmhvaUd3eHUzSHJWMnVZOHBuMk52SWhFa0hKOVhWNkx6RFFZb2lwQ3RaOUFxbThvWS11TlJQWTh6MXUxSGFZdFJxUnM1YnpSSHFlcFVsa0J4cGhVQThObU81NWZFMGNwT2dGVGFyNE5MWVlkRmplWWpmRGt4VmVJdENCLUk5YzFDYS1zWkI2ZVJHdjRoZTdDOXU4bzJ4Q01pSG9icnRlZW9DLUctYnlsU1lUdw?oc=5",
-      "source": "CIDRAP",
-      "pubDate": "2026-08-28T21:09:00+00:00",
-      "image": null
-    },
     {
       "title": "Mosquito: How two airport workers die of malaria afta 'mosquito enta inside plane'",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbktjS0ZQYThpNmJJMmo5VnZLTWFzNzNJWm5jdGhJaWQyang3TlBqVDVFcjRHdlRZa0k0ZFF4X29iVVVaZmhvazA0RnJNLUE4UEd5bE5Ta3hJa0Jh0gFiQVVfeXFMUENXWEZweEE5LTJFeGdEajU0WEpyRGk0N1dQV05CWnNiakpjVktJWm9ZWGFjckJZeHNFN1dvQmg2V05uWFpFT1ZTTnhJYjZrWi1NTkg3U0ZsR1pwdVRpTi1icEE?oc=5",
@@ -40,6 +33,13 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
+      "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
+      "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-08-14T05:40:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
+    },
+    {
       "title": "Bringing Health Care Closer: Tackling Malaria and Childhood Illness in Tanzania",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFJ4cTFCeldsOTNwazJSaW91TlFPSExTMmUzRXhUTEhZdUo0WVJVLV9FenZQaDNxZ2tOaWJBaHVMWTBLcDRIVExweHV2YUZ1MGNadFZKUE1sdWtScFZNcy1XZWVqbzdzY2NqeEd4OGJXNkV1elZnZEhfMGlvLTQxMDNQX2dCdDdQdUdwaDVoZWlZWU5aNkNyMVV0akpmZW9ScmNJaXFzVWQycXBMMk41dWZ2TzMyREsxbDdFeQ?oc=5",
       "source": "WHO | Regional Office for Africa",
@@ -47,10 +47,10 @@
       "image": null
     },
     {
-      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
+      "title": "Integrated campaign tackles malaria and polio in north-eastern Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tTHFuOUdoSUtkQXhoR0NWRFdicWFSZERrLW8tbWRJeThoQW5lT3NFX3J1NXdkSy0yU2ZjOGdlNk9xdlc3Y0hrZFN5R3dBLWZZTlhtX08ydWY2RXc1M2RJWkIxZWg?oc=5",
       "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-06-02T07:00:00+00:00",
+      "pubDate": "2026-07-22T07:00:00+00:00",
       "image": null
     },
     {
