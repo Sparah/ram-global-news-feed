@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-09-04T10:31:11.263365+00:00",
+  "generatedAt": "2026-09-05T09:54:35.196469+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 4,
   "articles": [
-    {
-      "title": "Mosquito: How two airport workers die of malaria afta 'mosquito enta inside plane'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbktjS0ZQYThpNmJJMmo5VnZLTWFzNzNJWm5jdGhJaWQyang3TlBqVDVFcjRHdlRZa0k0ZFF4X29iVVVaZmhvazA0RnJNLUE4UEd5bE5Ta3hJa0Jh0gFiQVVfeXFMUENXWEZweEE5LTJFeGdEajU0WEpyRGk0N1dQV05CWnNiakpjVktJWm9ZWGFjckJZeHNFN1dvQmg2V05uWFpFT1ZTTnhJYjZrWi1NTkg3U0ZsR1pwdVRpTi1icEE?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-08-26T19:33:42+00:00",
-      "image": null
-    },
     {
       "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
       "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
@@ -26,25 +19,18 @@
       "image": null
     },
     {
-      "title": "JNK signaling regulates reproductive trade-offs after Plasmodium infection in the malaria mosquito",
-      "link": "https://www.nature.com/articles/s42003-026-10762-3",
-      "source": "Nature Malaria",
-      "pubDate": "2026-08-26T00:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Dynamic hinge-motion of PfRIPR revealed by malaria invasion inhibitory antibodies",
-      "link": "https://www.nature.com/articles/s41467-026-77069-z",
-      "source": "Nature Malaria",
-      "pubDate": "2026-08-24T00:00:00+00:00",
-      "image": null
-    },
-    {
       "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
       "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-17T05:20:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
+    },
+    {
+      "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
+      "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-08-14T05:40:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -61,6 +47,13 @@
       "image": null
     },
     {
+      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-25T07:00:00+00:00",
+      "image": null
+    },
+    {
       "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
       "source": "The Lancet",
@@ -72,6 +65,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
       "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-04-29T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     },
     {
