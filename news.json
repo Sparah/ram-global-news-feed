@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T10:31:20.137191+00:00",
+  "generatedAt": "2026-09-09T10:42:40.850952+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 3,
   "articles": [
     {
       "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
@@ -24,13 +24,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-08-17T05:20:01-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
-      "title": "Late-stage parasite blockers could turn mosquito bites into malaria vaccine boosters",
-      "link": "https://medicalxpress.com/news/2026-08-late-stage-parasite-blockers-mosquito.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-14T05:40:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-infection-to-prot.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -56,7 +49,7 @@
     {
       "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
+      "source": "thelancet.com",
       "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     },
@@ -79,6 +72,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
       "source": "CIDRAP",
       "pubDate": "2026-04-21T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "IMACS Joins NASA-Funded Project led by University of Maryland to Predict Malaria and Dengue in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWprWkp6TnJQdklHNmo3X1h3OG40djZDVnlrUHMySXltblQya3R0MW9oMUd3MWJ5MV84MlN3cWN5R1BESi1pQ3pla2J0LTJrY09Dd1M2OHZEOVhFNnJ0bnFVOG0tRjFha0ZRaFFDSFRMS2YwSGFFZWpIS0tuUTdGcHhkQ2xmbHo1aFBUTnhFYVVEZWtwTUItaUNlU3ZTVlZHWWw5eENPcFJXbFVHOGUyU2dlOXFwUlQ4MklXSFNLV1dXRUF0bHVRVXBtN0liWm9XR1BpREZEY05fQ1E?oc=5",
+      "source": "Malaria No More",
+      "pubDate": "2026-04-01T07:00:00+00:00",
       "image": null
     },
     {
