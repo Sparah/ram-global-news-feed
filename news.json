@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T11:01:50.285263+00:00",
+  "generatedAt": "2026-09-14T11:41:16.818011+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 1,
   "articles": [
     {
       "title": "WHO guidelines for malaria",
@@ -12,32 +12,11 @@
       "image": null
     },
     {
-      "title": "Digging through history to fight malaria",
-      "link": "https://medicalxpress.com/news/2026-09-history-malaria.html",
-      "source": "MedicalXpress Infectious Diseases",
-      "pubDate": "2026-09-09T08:40:06-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/digging-through-histor.jpg"
-    },
-    {
-      "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
-      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-26T11:00:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15QkkxRExIZWVDelliVkRfdGJjS3E5Z3ZhWEJzMzNCZ3QzX1J0SEJ2cG13Wm9idjYzQUxVRHp6OWRFb1ZLNXBXWmllSWw4N1B5dEVwUmR6N2N3Zw?oc=5",
       "source": "BBC",
       "pubDate": "2026-08-26T07:00:00+00:00",
       "image": null
-    },
-    {
-      "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
-      "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-17T05:20:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -54,10 +33,31 @@
       "image": null
     },
     {
+      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-25T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Sustaining the momentum: cross-border collaboration to achieve Malaria and NTD Elimination",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYlUxYjZJdHNRYjNZOFhFeF9qMFNsYmxIYnl0d2p0LXRfWEw4S05yalhSaDVCbWw0MExqQUFOVVA5RDlYa1JpRlh2R2c2aEw3bHZ6SHFTR0FCZU51VWNHdE5lajNuenAtRG9Ra1FnQzZkLVVQSExOUGtPQi1LZjA3SDFRVE5iRC01TWgwNGN2Ukw0YmQ5SExCMllOQ1lpR3l6MlZka3hGNWJSbVhIS2RTX2JqNm41X0tMRzZXRUdsMXNFT1dHQnBrSnRFcTRWX3JadmVqbDNSaGhaN1gxZFIzY1hjdE9XeG9aZWc1eERxZnh4eXZt?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-20T07:00:00+00:00",
+      "image": null
+    },
+    {
       "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
       "source": "The Lancet",
       "pubDate": "2026-05-09T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "The fascinating malaria–COVID-19 relationship",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREs4TXhoVGFSRGRjUFBBLW1GQU1QcDMwOWJIbEV6QXRHQk9INXdzUjhJSnJnWGxudG82LUNMY2VQNURVU0NKR210MzROTHJzUzhleE1XX1FGcnlLaF9uTkF4eGViNlpWRGJRRk5CUjR4QnJEbDZTcFdFYy1UUmRxQ2ZxdmgyZnN6eEJv?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-04-28T04:00:22+00:00",
       "image": null
     },
     {
