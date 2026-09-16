@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:59:21.187281+00:00",
+  "generatedAt": "2026-09-16T10:47:29.011436+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 3,
@@ -9,6 +9,13 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTllzc3ZHZmRNMjFVRE4yMEhFemNoLTJmTU1tZVBnWmIySlVheWJjd21VYm5SUGx1VUNMRnlfVDFoNy1RNzZIdmdqQUtVSU9hNFQ5S3hBQ1EtblNBRlFLeDhfaVdjVV90ZUpzck9lUVZUcDdTUzNmMjJSN0V3eXBKeGtsYjJjX285aHBLaVJ1WFlEU0kzYndV?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-09-11T09:24:06+00:00",
+      "image": null
+    },
+    {
+      "title": "Version update to the WHO guidelines for malaria, 10 September 2026",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFBKVGZDeUtmMXg5aWVaNXNmX2dVWmdYWXNZTWY1SVVGeWV4cnRuVnNrcjFjQWlNWWtIT01Xa2ROUW5ZNllZeGFXdzZQRWF1SkdHbHowUTRaUEpqVVJIWm90ZzUwVVBiTmwwZHhwMHEtYmd1OW9WMVhvMnFaTEgyUHNUbHRRZ1FEUDlLaENQSXBzWWFnWjZtTFR2WHBJWGhSakJyNy1zdXJTSUtPZUpENEt4TTRNd3A5MTFzSmhRbmtPS1Fu?oc=5",
+      "source": "cdn.who.int",
+      "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
     {
@@ -35,7 +42,7 @@
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15QkkxRExIZWVDelliVkRfdGJjS3E5Z3ZhWEJzMzNCZ3QzX1J0SEJ2cG13Wm9idjYzQUxVRHp6OWRFb1ZLNXBXWmllSWw4N1B5dEVwUmR6N2N3Zw?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "pubDate": "2026-08-26T07:00:00+00:00",
       "image": null
     },
@@ -44,13 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
       "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-07-14T15:49:30+00:00",
-      "image": null
-    },
-    {
-      "title": "Malaria and Vector-Borne Diseases",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     },
     {
@@ -63,7 +63,7 @@
     {
       "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     },
