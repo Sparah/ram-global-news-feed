@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-09-17T10:54:05.911605+00:00",
+  "generatedAt": "2026-09-18T10:29:52.459229+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 4,
   "articles": [
+    {
+      "title": "Frankfurt reports third malaria death in airport-linked outbreak",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTDg3MG5vVUswbnAyRWdKRmdYS0VQX0RUbEZMU2ZheVBfSW9UYU1WRXVFUWJ5REtBcVlEN29vSFctNW10ZjNLZVJRblFqM0k3X05NZmliOUlIY2dMSS04LTczUlFYTGxtbnpmMmlqUDdlREV5dThTN1pXSXo3VUhZamFLaE9iWWV5RGpOZDNENENLMWw1WlRaLXRvWF9fYlZmUlFjQ0llNUpEXzV2UnhEYm1rdlBmcnBnZk9lVzRJRE5ON1ltenQzWkl4aVZTZw?oc=5",
+      "source": "Reuters",
+      "pubDate": "2026-09-17T15:12:28+00:00",
+      "image": null
+    },
+    {
+      "title": "Third malaria death in Germany from outbreak tied to Frankfurt Airport",
+      "link": "https://medicalxpress.com/news/2026-09-malaria-death-germany-outbreak-frankfurt.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-09-17T14:40:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frankfurt-airport.jpg"
+    },
     {
       "title": "WHO guidelines for malaria, 10 September 2026",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTllzc3ZHZmRNMjFVRE4yMEhFemNoLTJmTU1tZVBnWmIySlVheWJjd21VYm5SUGx1VUNMRnlfVDFoNy1RNzZIdmdqQUtVSU9hNFQ5S3hBQ1EtblNBRlFLeDhfaVdjVV90ZUpzck9lUVZUcDdTUzNmMjJSN0V3eXBKeGtsYjJjX285aHBLaVJ1WFlEU0kzYndV?oc=5",
@@ -15,13 +29,6 @@
       "title": "Version update to the WHO guidelines for malaria, 10 September 2026",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFBKVGZDeUtmMXg5aWVaNXNmX2dVWmdYWXNZTWY1SVVGeWV4cnRuVnNrcjFjQWlNWWtIT01Xa2ROUW5ZNllZeGFXdzZQRWF1SkdHbHowUTRaUEpqVVJIWm90ZzUwVVBiTmwwZHhwMHEtYmd1OW9WMVhvMnFaTEgyUHNUbHRRZ1FEUDlLaENQSXBzWWFnWjZtTFR2WHBJWGhSakJyNy1zdXJTSUtPZUpENEt4TTRNd3A5MTFzSmhRbmtPS1Fu?oc=5",
       "source": "cdn.who.int",
-      "pubDate": "2026-09-10T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "WHO guidelines for malaria",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
-      "source": "who.int",
       "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
@@ -47,24 +54,24 @@
       "image": null
     },
     {
-      "title": "Malaria fears grow in Congo's Ebola outbreak hotspots",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblg2UVpGbG9FQ1RadmF0QWt3X2YtYTR3MnNYT2NKNTRCdkEySkdyenlkRlRuYTV2d0k5bWNkT2FDc3NHQ1JMVjJ2ZTltOHZYaDNJTk5TV3Fxbmp2RjBBTlZ4UUpCVDRNV3lnS1NKRTdncDloMUd1Y3pUSjNKRFFFMEl5a29GYW1ILWR0SzQ2a1ZlSWNjX0hEbTd6UTI0WUhFY0pzT2FsVnRHSXpfcWtjb0NxTkROdHR6WTBvVHln?oc=5",
-      "source": "Reuters",
-      "pubDate": "2026-07-02T07:00:00+00:00",
-      "image": null
+      "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
+      "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-08-17T05:20:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
       "title": "Malaria and Vector-Borne Diseases",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "who.int",
+      "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     },
     {
-      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-05-09T07:00:00+00:00",
+      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-25T07:00:00+00:00",
       "image": null
     },
     {
@@ -77,16 +84,9 @@
     {
       "title": "IMACS Joins NASA-Funded Project led by University of Maryland to Predict Malaria and Dengue in Indonesia",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWprWkp6TnJQdklHNmo3X1h3OG40djZDVnlrUHMySXltblQya3R0MW9oMUd3MWJ5MV84MlN3cWN5R1BESi1pQ3pla2J0LTJrY09Dd1M2OHZEOVhFNnJ0bnFVOG0tRjFha0ZRaFFDSFRMS2YwSGFFZWpIS0tuUTdGcHhkQ2xmbHo1aFBUTnhFYVVEZWtwTUItaUNlU3ZTVlZHWWw5eENPcFJXbFVHOGUyU2dlOXFwUlQ4MklXSFNLV1dXRUF0bHVRVXBtN0liWm9XR1BpREZEY05fQ1E?oc=5",
-      "source": "malarianomore.org",
+      "source": "Malaria No More",
       "pubDate": "2026-04-01T07:00:00+00:00",
       "image": null
-    },
-    {
-      "title": "Scientists discover tiny rocket engines inside malaria parasites",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2026-03-19T07:19:27-04:00",
-      "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
     }
   ]
 }
