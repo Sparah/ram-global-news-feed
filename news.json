@@ -1,13 +1,20 @@
 {
-  "generatedAt": "2026-09-18T10:29:52.459229+00:00",
+  "generatedAt": "2026-09-19T10:14:54.276640+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 3,
   "articles": [
+    {
+      "title": "Quick takes: DR Congo Ebola emergency, malaria deaths in Germany, 7 new polio cases",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlBoY29TcUNVT3hjbmZEN0JROVVWMmhlNFZ0dUU1RGxFOExZV2p6bzVBRHJkRW40Q1h6QjZQbHpXTEl4aHBQZU1sa1FRT291bnlYM244NEtTUkZaQ1lkSTN0dk5Bb3hJSE5kT1o3XzhQUGdmcmlMUVlraENOSWVrRzV4TUdSWlZWUXJ5dEJCem53UE03cUtBc1BBZmdvRjRzZjRlaTEzbVJOX1o2SW9B?oc=5",
+      "source": "CIDRAP",
+      "pubDate": "2026-09-18T17:39:00+00:00",
+      "image": null
+    },
     {
       "title": "Frankfurt reports third malaria death in airport-linked outbreak",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTDg3MG5vVUswbnAyRWdKRmdYS0VQX0RUbEZMU2ZheVBfSW9UYU1WRXVFUWJ5REtBcVlEN29vSFctNW10ZjNLZVJRblFqM0k3X05NZmliOUlIY2dMSS04LTczUlFYTGxtbnpmMmlqUDdlREV5dThTN1pXSXo3VUhZamFLaE9iWWV5RGpOZDNENENLMWw1WlRaLXRvWF9fYlZmUlFjQ0llNUpEXzV2UnhEYm1rdlBmcnBnZk9lVzRJRE5ON1ltenQzWkl4aVZTZw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "pubDate": "2026-09-17T15:12:28+00:00",
       "image": null
     },
@@ -20,9 +27,9 @@
     },
     {
       "title": "WHO guidelines for malaria, 10 September 2026",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTllzc3ZHZmRNMjFVRE4yMEhFemNoLTJmTU1tZVBnWmIySlVheWJjd21VYm5SUGx1VUNMRnlfVDFoNy1RNzZIdmdqQUtVSU9hNFQ5S3hBQ1EtblNBRlFLeDhfaVdjVV90ZUpzck9lUVZUcDdTUzNmMjJSN0V3eXBKeGtsYjJjX285aHBLaVJ1WFlEU0kzYndV?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-09-11T09:24:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nWnA4NFNlTFl0YmsxaEh2a0NuRGZvQXdBRmRFR2FjUjR4a00ydDZVSDFsN1p3ZWJxb080TVMwRVd6dnBuai1tcWhXT0RDRkVVNjNidHRxWi1fSlpkZ2diX3d5SkNlWEUxSjVTYWstbjM?oc=5",
+      "source": "WHO IRIS Repository",
+      "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
     {
@@ -54,13 +61,6 @@
       "image": null
     },
     {
-      "title": "Fast-spreading malaria parasite mutations in Uganda may weaken Africa's most widely used malaria therapy",
-      "link": "https://medicalxpress.com/news/2026-08-fast-malaria-parasite-mutations-uganda.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-17T05:20:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
       "title": "Malaria and Vector-Borne Diseases",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
       "source": "World Health Organization (WHO)",
@@ -68,10 +68,10 @@
       "image": null
     },
     {
-      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-25T07:00:00+00:00",
+      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     },
     {
