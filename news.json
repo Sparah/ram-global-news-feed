@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-09-19T10:14:54.276640+00:00",
+  "generatedAt": "2026-09-20T10:33:27.669006+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 3,
   "articles": [
+    {
+      "title": "No 'magic bullet' for malaria—elimination will require a combination of tools, say global health expert",
+      "link": "https://medicalxpress.com/news/2026-09-magic-bullet-malaria-require-combination.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-09-19T13:20:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-2.jpg"
+    },
     {
       "title": "Quick takes: DR Congo Ebola emergency, malaria deaths in Germany, 7 new polio cases",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlBoY29TcUNVT3hjbmZEN0JROVVWMmhlNFZ0dUU1RGxFOExZV2p6bzVBRHJkRW40Q1h6QjZQbHpXTEl4aHBQZU1sa1FRT291bnlYM244NEtTUkZaQ1lkSTN0dk5Bb3hJSE5kT1o3XzhQUGdmcmlMUVlraENOSWVrRzV4TUdSWlZWUXJ5dEJCem53UE03cUtBc1BBZmdvRjRzZjRlaTEzbVJOX1o2SW9B?oc=5",
@@ -14,7 +21,7 @@
     {
       "title": "Frankfurt reports third malaria death in airport-linked outbreak",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTDg3MG5vVUswbnAyRWdKRmdYS0VQX0RUbEZMU2ZheVBfSW9UYU1WRXVFUWJ5REtBcVlEN29vSFctNW10ZjNLZVJRblFqM0k3X05NZmliOUlIY2dMSS04LTczUlFYTGxtbnpmMmlqUDdlREV5dThTN1pXSXo3VUhZamFLaE9iWWV5RGpOZDNENENLMWw1WlRaLXRvWF9fYlZmUlFjQ0llNUpEXzV2UnhEYm1rdlBmcnBnZk9lVzRJRE5ON1ltenQzWkl4aVZTZw?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "pubDate": "2026-09-17T15:12:28+00:00",
       "image": null
     },
@@ -28,7 +35,7 @@
     {
       "title": "WHO guidelines for malaria, 10 September 2026",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nWnA4NFNlTFl0YmsxaEh2a0NuRGZvQXdBRmRFR2FjUjR4a00ydDZVSDFsN1p3ZWJxb080TVMwRVd6dnBuai1tcWhXT0RDRkVVNjNidHRxWi1fSlpkZ2diX3d5SkNlWEUxSjVTYWstbjM?oc=5",
-      "source": "WHO IRIS Repository",
+      "source": "World Health Organization (WHO)",
       "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
@@ -45,13 +52,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-09-09T08:40:06-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/digging-through-histor.jpg"
-    },
-    {
-      "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
-      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-26T11:00:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
