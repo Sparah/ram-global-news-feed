@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-09-24T11:03:13.704990+00:00",
+  "generatedAt": "2026-09-25T11:03:10.353235+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 3,
+  "imagesResolved": 4,
   "articles": [
+    {
+      "title": "Malaria parasite can reawaken after years: New vaccine target may block liver infection",
+      "link": "https://medicalxpress.com/news/2026-09-malaria-parasite-reawaken-years-vaccine.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-09-24T17:00:11-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-study-researchers.jpg"
+    },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwSUtOaGpSNGhZS0JjblNGSS1XMWNOWmh3Qzgxbk5ONnhSSXNqWkRTOVA0Z3VmUUJxRng5Qi0zeUNSTG40VmRFemZRZURkYm02VUlkWTZJVlV1UGlBYnU0VTI4MHhUdw?oc=5",
@@ -33,25 +40,18 @@
       "image": null
     },
     {
-      "title": "Third malaria death in Germany from outbreak tied to Frankfurt Airport",
-      "link": "https://medicalxpress.com/news/2026-09-malaria-death-germany-outbreak-frankfurt.html",
-      "source": "MedicalXpress Infectious Diseases",
-      "pubDate": "2026-09-17T14:40:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frankfurt-airport.jpg"
-    },
-    {
-      "title": "Malaria and Vector-Borne Diseases",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-09-09T12:50:13+00:00",
-      "image": null
-    },
-    {
       "title": "Digging through history to fight malaria",
       "link": "https://medicalxpress.com/news/2026-09-history-malaria.html",
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-09-09T08:40:06-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/digging-through-histor.jpg"
+    },
+    {
+      "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
+      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-08-26T11:00:04-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
@@ -61,10 +61,10 @@
       "image": null
     },
     {
-      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
+      "title": "Malaria and Vector-Borne Diseases",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
       "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-25T07:00:00+00:00",
+      "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     },
     {
