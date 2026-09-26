@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:03:10.353235+00:00",
+  "generatedAt": "2026-09-26T10:45:11.955024+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
@@ -26,18 +26,11 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-2.jpg"
     },
     {
-      "title": "Quick takes: DR Congo Ebola emergency, malaria deaths in Germany, 7 new polio cases",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlBoY29TcUNVT3hjbmZEN0JROVVWMmhlNFZ0dUU1RGxFOExZV2p6bzVBRHJkRW40Q1h6QjZQbHpXTEl4aHBQZU1sa1FRT291bnlYM244NEtTUkZaQ1lkSTN0dk5Bb3hJSE5kT1o3XzhQUGdmcmlMUVlraENOSWVrRzV4TUdSWlZWUXJ5dEJCem53UE03cUtBc1BBZmdvRjRzZjRlaTEzbVJOX1o2SW9B?oc=5",
-      "source": "CIDRAP",
-      "pubDate": "2026-09-18T17:39:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Frankfurt reports third malaria death in airport-linked outbreak",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTDg3MG5vVUswbnAyRWdKRmdYS0VQX0RUbEZMU2ZheVBfSW9UYU1WRXVFUWJ5REtBcVlEN29vSFctNW10ZjNLZVJRblFqM0k3X05NZmliOUlIY2dMSS04LTczUlFYTGxtbnpmMmlqUDdlREV5dThTN1pXSXo3VUhZamFLaE9iWWV5RGpOZDNENENLMWw1WlRaLXRvWF9fYlZmUlFjQ0llNUpEXzV2UnhEYm1rdlBmcnBnZk9lVzRJRE5ON1ltenQzWkl4aVZTZw?oc=5",
-      "source": "Reuters",
-      "pubDate": "2026-09-17T15:12:28+00:00",
-      "image": null
+      "title": "Third malaria death in Germany from outbreak tied to Frankfurt Airport",
+      "link": "https://medicalxpress.com/news/2026-09-malaria-death-germany-outbreak-frankfurt.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-17T14:40:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frankfurt-airport.jpg"
     },
     {
       "title": "Digging through history to fight malaria",
@@ -45,13 +38,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-09-09T08:40:06-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/digging-through-histor.jpg"
-    },
-    {
-      "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
-      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-26T11:00:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
@@ -75,10 +61,24 @@
       "image": null
     },
     {
+      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-04-25T07:00:00+00:00",
+      "image": null
+    },
+    {
       "title": "Severe malaria in early childhood tied to long-term cognitive issues",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
       "source": "CIDRAP",
       "pubDate": "2026-04-21T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "The indirect haemagglutination test for malaria and its application to epidemiological surveillance*",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczd5STNGam5OQ2t0empRMDR6RUctenZGYzZIVjNZN3B3akFJX05qQTVXejlUWU1scHFSN2Z2MzFjaFhhbUh5UWhvdVFTV3FNZk1PVFVKaUJ0NVhxb0Zic1pEVHNGa21GWVhOc2hOZ3hNQjNvaGx6aWszb0Y2SUt6ZUhwdw?oc=5",
+      "source": "iris.who.int",
+      "pubDate": "2026-04-21T04:21:09+00:00",
       "image": null
     },
     {
