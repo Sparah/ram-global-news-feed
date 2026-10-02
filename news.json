@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T12:21:42.778320+00:00",
+  "generatedAt": "2026-10-02T11:49:23.388424+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 6,
+  "imagesResolved": 4,
   "articles": [
     {
       "title": "Anti-cancer molecules show promise in the fight against malaria",
@@ -33,52 +33,52 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/frankfurt-airport.jpg"
     },
     {
-      "title": "Digging through history to fight malaria",
-      "link": "https://medicalxpress.com/news/2026-09-history-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-09-09T08:40:06-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/digging-through-histor.jpg"
-    },
-    {
-      "title": "Corrected: Two German airport workers die of malaria from mosquito on plane",
-      "link": "https://medicalxpress.com/news/2026-08-german-airport-worker-dies-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-08-26T11:00:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
-      "source": "afro.who.int",
+      "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-07-14T15:49:30+00:00",
+      "image": null
+    },
+    {
+      "title": "Malaria Know More: What Reaching Refugees and Displaced Populations Means for Malaria Elimination",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1Q4VXY4ZTNqX01OSDBSb2Y3MlItY1Q1a1FTS1VacWJGYXZMTXJGTFN2bUxJaFl1YnhtSWZFcEpaX0t5NlRVUFFaNGtoMjZjeHdVUEZzUW1mS283N3BnTFBmV1MzU1U1R2N0Y20zV2xmcXNJTWVLaDdVVU9oV08zWjJ2UGNJMHNuX1JGM3R3YzBnVzJOczlDNFFReHVQWGRkVWRWNlRYcEtRNmhybkdmWFAzdGt3UU1YUzhqQ1Bpb2ZRZXZVT1BDWVMzV2I?oc=5",
+      "source": "Malaria No More",
+      "pubDate": "2026-06-18T07:00:00+00:00",
       "image": null
     },
     {
       "title": "Malaria and Vector-Borne Diseases",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "who.int",
+      "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     },
     {
       "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
-      "source": "who.int",
+      "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-25T07:00:00+00:00",
       "image": null
     },
     {
-      "title": "Sustaining the momentum: cross-border collaboration to achieve Malaria and NTD Elimination",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYlUxYjZJdHNRYjNZOFhFeF9qMFNsYmxIYnl0d2p0LXRfWEw4S05yalhSaDVCbWw0MExqQUFOVVA5RDlYa1JpRlh2R2c2aEw3bHZ6SHFTR0FCZU51VWNHdE5lajNuenAtRG9Ra1FnQzZkLVVQSExOUGtPQi1LZjA3SDFRVE5iRC01TWgwNGN2Ukw0YmQ5SExCMllOQ1lpR3l6MlZka3hGNWJSbVhIS2RTX2JqNm41X0tMRzZXRUdsMXNFT1dHQnBrSnRFcTRWX3JadmVqbDNSaGhaN1gxZFIzY1hjdE9XeG9aZWc1eERxZnh4eXZt?oc=5",
-      "source": "who.int",
-      "pubDate": "2026-05-20T07:00:00+00:00",
+      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     },
     {
-      "title": "New evidence confirms malaria vaccine saves child lives and will have high impact in wider rollout",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnNGaHljNjVyUWdSRFltOU13UWdTSk5Hd2hDaTBvUmNoVG8zeWtkS01zdUFyeDQxNW1FMjRRRkV1ZkNQY3JHcXJtMk5rMDAwQVJrNHpSWkoyOGR6My1keFlCZWxpWHVZR2FBbWRVV1hMVkhlbVhvcU9HQk5ZZ0JiLXlyTjZjM0NmR1NFeURhX2o4Z1l2cHNFNnMxSGpxbjQybEdoMGNVM1phLXlyTzVHV0RKa1lTTWt4SlZFVkVrMDhiclJqWHU3ODFfRWVXNDF1cm1wbGZn?oc=5",
-      "source": "who.int",
-      "pubDate": "2026-05-08T07:00:00+00:00",
+      "title": "The fascinating malaria–COVID-19 relationship",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREs4TXhoVGFSRGRjUFBBLW1GQU1QcDMwOWJIbEV6QXRHQk9INXdzUjhJSnJnWGxudG82LUNMY2VQNURVU0NKR210MzROTHJzUzhleE1XX1FGcnlLaF9uTkF4eGViNlpWRGJRRk5CUjR4QnJEbDZTcFdFYy1UUmRxQ2ZxdmgyZnN6eEJv?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-04-28T04:00:22+00:00",
+      "image": null
+    },
+    {
+      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
+      "source": "BBC",
+      "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     },
     {
