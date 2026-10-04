@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T11:02:54.755259+00:00",
+  "generatedAt": "2026-10-04T11:44:20.813978+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 3,
   "articles": [
     {
       "title": "Anti-cancer molecules show promise in the fight against malaria",
@@ -26,11 +26,11 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-2.jpg"
     },
     {
-      "title": "Third malaria death in Germany from outbreak tied to Frankfurt Airport",
-      "link": "https://medicalxpress.com/news/2026-09-malaria-death-germany-outbreak-frankfurt.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-09-17T14:40:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frankfurt-airport.jpg"
+      "title": "WHO guidelines for malaria, 10 September 2026",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTllzc3ZHZmRNMjFVRE4yMEhFemNoLTJmTU1tZVBnWmIySlVheWJjd21VYm5SUGx1VUNMRnlfVDFoNy1RNzZIdmdqQUtVSU9hNFQ5S3hBQ1EtblNBRlFLeDhfaVdjVV90ZUpzck9lUVZUcDdTUzNmMjJSN0V3eXBKeGtsYjJjX285aHBLaVJ1WFlEU0kzYndV?oc=5",
+      "source": "WHO IRIS Repository",
+      "pubDate": "2026-09-10T07:00:00+00:00",
+      "image": null
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
@@ -68,13 +68,6 @@
       "image": null
     },
     {
-      "title": "The fascinating malaria–COVID-19 relationship",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREs4TXhoVGFSRGRjUFBBLW1GQU1QcDMwOWJIbEV6QXRHQk9INXdzUjhJSnJnWGxudG82LUNMY2VQNURVU0NKR210MzROTHJzUzhleE1XX1FGcnlLaF9uTkF4eGViNlpWRGJRRk5CUjR4QnJEbDZTcFdFYy1UUmRxQ2ZxdmgyZnN6eEJv?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-04-28T04:00:22+00:00",
-      "image": null
-    },
-    {
       "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
       "source": "BBC",
@@ -86,6 +79,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
       "source": "CIDRAP",
       "pubDate": "2026-04-21T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "The indirect haemagglutination test for malaria and its application to epidemiological surveillance*",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczd5STNGam5OQ2t0empRMDR6RUctenZGYzZIVjNZN3B3akFJX05qQTVXejlUWU1scHFSN2Z2MzFjaFhhbUh5UWhvdVFTV3FNZk1PVFVKaUJ0NVhxb0Zic1pEVHNGa21GWVhOc2hOZ3hNQjNvaGx6aWszb0Y2SUt6ZUhwdw?oc=5",
+      "source": "WHO IRIS Repository",
+      "pubDate": "2026-04-21T04:21:09+00:00",
       "image": null
     }
   ]
