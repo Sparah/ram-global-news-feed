@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-07T12:35:10.699933+00:00",
+  "generatedAt": "2026-10-08T12:45:05.466105+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
   "articles": [
+    {
+      "title": "Distinct malaria parasites may help explain sickle cell trait's protection against disease",
+      "link": "https://medicalxpress.com/news/2026-10-distinct-malaria-parasites-sickle-cell.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-10-08T05:00:26-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
+    },
     {
       "title": "Antimalarial drug persists in mosquitoes for days, potentially exposing developing parasites",
       "link": "https://medicalxpress.com/news/2026-10-antimalarial-drug-persists-mosquitoes-days.html",
@@ -26,17 +33,10 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-study-researchers.jpg"
     },
     {
-      "title": "No 'magic bullet' for malaria—elimination will require a combination of tools, say global health expert",
-      "link": "https://medicalxpress.com/news/2026-09-magic-bullet-malaria-require-combination.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-09-19T13:20:01-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-2.jpg"
-    },
-    {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mQUlLQUdUMnd0TFlqbUJfZ3hWdEtUZlV6V3FHXzY0VTRtTW5vbUN2OFRuTm9pODVySW5jZjYzamU1eGlVSzNRTXlxMjkwMG8?oc=5",
       "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-07-14T15:49:30+00:00",
+      "pubDate": "2026-09-15T18:21:11+00:00",
       "image": null
     },
     {
@@ -61,17 +61,17 @@
       "image": null
     },
     {
-      "title": "Sustaining the momentum: cross-border collaboration to achieve Malaria and NTD Elimination",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYlUxYjZJdHNRYjNZOFhFeF9qMFNsYmxIYnl0d2p0LXRfWEw4S05yalhSaDVCbWw0MExqQUFOVVA5RDlYa1JpRlh2R2c2aEw3bHZ6SHFTR0FCZU51VWNHdE5lajNuenAtRG9Ra1FnQzZkLVVQSExOUGtPQi1LZjA3SDFRVE5iRC01TWgwNGN2Ukw0YmQ5SExCMllOQ1lpR3l6MlZka3hGNWJSbVhIS2RTX2JqNm41X0tMRzZXRUdsMXNFT1dHQnBrSnRFcTRWX3JadmVqbDNSaGhaN1gxZFIzY1hjdE9XeG9aZWc1eERxZnh4eXZt?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-20T07:00:00+00:00",
-      "image": null
-    },
-    {
       "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
       "source": "The Lancet",
       "pubDate": "2026-05-09T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-04-29T07:00:00+00:00",
       "image": null
     },
     {
