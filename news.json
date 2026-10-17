@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-16T10:37:15.277089+00:00",
+  "generatedAt": "2026-10-17T10:05:48.351059+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 3,
   "articles": [
+    {
+      "title": "Exclusive: Global Fund eyes new funding mechanism for malaria",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejdoc0lGUm5UeS1MMGNQUExrRVg2anY3VnZjNUl3UXlveFJUMWhpclFDUFpEelhhd3B2Q01mcGFwN0RhajFZRXFTeVNXc3NQQktYeFRWVlNkczhZUDdRdEc3eGlXOEx0NTQxZmY2eDg4Y3BJNGw0M0RiZHdKUjNDZTNOZnkzQnE4bEcyck1tVkU2UGdzZGJ1SEVR?oc=5",
+      "source": "Devex",
+      "pubDate": "2026-10-12T19:50:16+00:00",
+      "image": null
+    },
     {
       "title": "AI-powered device can fight against malaria by detecting and repelling mosquitoes",
       "link": "https://medicalxpress.com/news/2026-10-ai-powered-device-malaria-repelling.html",
@@ -14,7 +21,7 @@
     {
       "title": "Malaria remains the leading cause of hospital admission and in-hospital death in children under 2 in Sierra Leone",
       "link": "https://medicalxpress.com/news/2026-10-malaria-hospital-admission-death-children.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-09T15:00:12-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-remains-the-le.jpg"
     },
@@ -24,13 +31,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-08T05:00:26-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
-    },
-    {
-      "title": "Antimalarial drug persists in mosquitoes for days, potentially exposing developing parasites",
-      "link": "https://medicalxpress.com/news/2026-10-antimalarial-drug-persists-mosquitoes-days.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-10-06T09:20:04-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/antimalarial-drugs-can.jpg"
     },
     {
       "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
