@@ -1,27 +1,20 @@
 {
-  "generatedAt": "2026-10-19T12:00:30.105708+00:00",
-  "stale": false,
+  "generatedAt": "2026-10-20T10:53:10.499650+00:00",
+  "stale": true,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 12,
   "articles": [
     {
       "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzZncldtWUdRclJBdjJnUnFxdkxmT2c1djlJZ3BmeU5vSFUxbHdRUFRvUGhlNTFxYkZ3bjNDRjZqNWlaMXhhWXZ0UnFBdmhfSXVEUXNoc0RtRXpXRmsxQzZKbmJuNFhhS2lmWXc2d00wRmhKRF9hSi00dG1oZU5yRnlmUmo3aE5LN2tfX3JHZ3pkSTFPTE1fOWZFdmlJMjBMdTFWVzRoREl1a2c4?oc=5",
-      "source": "AP News",
-      "pubDate": "2026-10-19T00:22:00+00:00",
+      "link": "https://medicalxpress.com/news/2026-10-equatorial-guinea-ambitious-malaria.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-10-19T03:56:42-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/equatorial-guinea-mala.jpg"
-    },
-    {
-      "title": "Exclusive: Global Fund eyes new funding mechanism for malaria",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejdoc0lGUm5UeS1MMGNQUExrRVg2anY3VnZjNUl3UXlveFJUMWhpclFDUFpEelhhd3B2Q01mcGFwN0RhajFZRXFTeVNXc3NQQktYeFRWVlNkczhZUDdRdEc3eGlXOEx0NTQxZmY2eDg4Y3BJNGw0M0RiZHdKUjNDZTNOZnkzQnE4bEcyck1tVkU2UGdzZGJ1SEVR?oc=5",
-      "source": "Devex",
-      "pubDate": "2026-10-12T19:50:16+00:00",
-      "image": null
     },
     {
       "title": "AI-powered device can fight against malaria by detecting and repelling mosquitoes",
       "link": "https://medicalxpress.com/news/2026-10-ai-powered-device-malaria-repelling.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-12T12:00:20-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/mosquitoes-1.jpg"
     },
@@ -40,53 +33,60 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
     },
     {
-      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-07-14T15:49:30+00:00",
-      "image": null
+      "title": "Antimalarial drug persists in mosquitoes for days, potentially exposing developing parasites",
+      "link": "https://medicalxpress.com/news/2026-10-antimalarial-drug-persists-mosquitoes-days.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-10-06T09:20:04-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/antimalarial-drugs-can.jpg"
     },
     {
-      "title": "Malaria Know More: What Reaching Refugees and Displaced Populations Means for Malaria Elimination",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1Q4VXY4ZTNqX01OSDBSb2Y3MlItY1Q1a1FTS1VacWJGYXZMTXJGTFN2bUxJaFl1YnhtSWZFcEpaX0t5NlRVUFFaNGtoMjZjeHdVUEZzUW1mS283N3BnTFBmV1MzU1U1R2N0Y20zV2xmcXNJTWVLaDdVVU9oV08zWjJ2UGNJMHNuX1JGM3R3YzBnVzJOczlDNFFReHVQWGRkVWRWNlRYcEtRNmhybkdmWFAzdGt3UU1YUzhqQ1Bpb2ZRZXZVT1BDWVMzV2I?oc=5",
-      "source": "Malaria No More",
-      "pubDate": "2026-06-18T07:00:00+00:00",
-      "image": null
+      "title": "Anti-cancer molecules show promise in the fight against malaria",
+      "link": "https://medicalxpress.com/news/2026-09-anti-cancer-molecules-malaria.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-29T16:00:12-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2021/monoclonal-antibody-pr.jpg"
     },
     {
-      "title": "Malaria and Vector-Borne Diseases",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-26T13:18:37+00:00",
-      "image": null
+      "title": "Malaria parasite can reawaken after years: New vaccine target may block liver infection",
+      "link": "https://medicalxpress.com/news/2026-09-malaria-parasite-reawaken-years-vaccine.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-24T17:00:11-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-study-researchers.jpg"
     },
     {
-      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-05-09T07:00:00+00:00",
-      "image": null
+      "title": "No 'magic bullet' for malaria—elimination will require a combination of tools, say global health expert",
+      "link": "https://medicalxpress.com/news/2026-09-magic-bullet-malaria-require-combination.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-19T13:20:01-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2025/malaria-2.jpg"
     },
     {
-      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-04-29T07:00:00+00:00",
-      "image": null
+      "title": "Scientists discover tiny rocket engines inside malaria parasites",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-19T07:19:27-04:00",
+      "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
     },
     {
-      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-04-25T07:00:00+00:00",
-      "image": null
+      "title": "Scientists discover the protein that malaria parasites can’t live without",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2026-03-05T00:03:04-05:00",
+      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
     },
     {
-      "title": "Severe malaria in early childhood tied to long-term cognitive issues",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3g4VHJNMmowQTRjaTV4bGF0M2FiRFgxTHljWkpwaExTdFJWbUxYSnVQNDNVdGtRVHk1RWgybC1qMTh5TVZyZUFJY0gzNmk3MU5NZFFpM3RPRk5OYkJUYWZ3OUJwZG1DbTRiMGFvZy10VkZpRDBXWGg1RkxOMjFoNzdQLUgtLUlXZDdFOUVNSlAxRXV2N2ZCaXUxV0lUUQ?oc=5",
-      "source": "CIDRAP",
-      "pubDate": "2026-04-21T07:00:00+00:00",
-      "image": null
+      "title": "Ivermectin: The mosquito-killing pill that dropped malaria by 26%",
+      "link": "https://www.sciencedaily.com/releases/2025/07/250724232415.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2025-07-26T12:09:34-04:00",
+      "image": "https://www.sciencedaily.com/images/1920/ivermectin-tablets.webp"
+    },
+    {
+      "title": "Bed-netting prototypes to target malaria-causing parasites",
+      "link": "https://www.sciencedaily.com/releases/2025/05/250521161112.htm",
+      "source": "ScienceDaily",
+      "pubDate": "2025-05-21T16:11:12-04:00",
+      "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
     }
   ]
 }
