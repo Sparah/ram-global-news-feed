@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-10-22T11:05:53.740158+00:00",
+  "generatedAt": "2026-10-23T10:57:32.493993+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 7,
   "articles": [
+    {
+      "title": "UNICEF and Gavi agree to cut Mosquirix malaria vaccine price by 40%",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25sWVNxMk5jeU4wd2V3YzhUTHBtZV9sSUJVVGUtWkxDMW1RUHJTV0lBR2s4Q3VqQ2gyTnFNN0NKSnlwVnBwUkNNMlhnYnRGaWEzcG1ncHViSVc4SG1Tem94ZzJxV1FyaXZ0VFlyTXFLVzNRNjExcFJPTzdnYlk5M2RHUzhDSFU1dGdNUEVPaHNUdkZrelplWGZab2xKd2pqcjVMeDBNSWptSzc0OVhnbjlzTTlVeWwwR2p1TmRMSFZaOXUtTXZYODNsZw?oc=5",
+      "source": "Reuters",
+      "pubDate": "2026-10-22T14:57:28+00:00",
+      "image": null
+    },
     {
       "title": "Job Description - National Professional Officer (Malaria) (2602670)",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVFU1LVdSYjhvZVJua19OclFVY21YblBaVV8tTmVQTkdHeElnTkhhUEJUTkY2N1EyQ3FzU2hNeF8tS25GR1FuUk1MN1FPS1RPYy1sS0lBZTRndW4zXy0zb3doRnNtXzlsRGN2MVdyb0xselkwczQ0ZERzc3Q0REU?oc=5",
@@ -40,17 +47,31 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
     },
     {
-      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-07-14T15:49:30+00:00",
-      "image": null
+      "title": "Antimalarial drug persists in mosquitoes for days, potentially exposing developing parasites",
+      "link": "https://medicalxpress.com/news/2026-10-antimalarial-drug-persists-mosquitoes-days.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-10-06T09:20:04-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/antimalarial-drugs-can.jpg"
     },
     {
-      "title": "Malaria Know More: What Reaching Refugees and Displaced Populations Means for Malaria Elimination",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1Q4VXY4ZTNqX01OSDBSb2Y3MlItY1Q1a1FTS1VacWJGYXZMTXJGTFN2bUxJaFl1YnhtSWZFcEpaX0t5NlRVUFFaNGtoMjZjeHdVUEZzUW1mS283N3BnTFBmV1MzU1U1R2N0Y20zV2xmcXNJTWVLaDdVVU9oV08zWjJ2UGNJMHNuX1JGM3R3YzBnVzJOczlDNFFReHVQWGRkVWRWNlRYcEtRNmhybkdmWFAzdGt3UU1YUzhqQ1Bpb2ZRZXZVT1BDWVMzV2I?oc=5",
-      "source": "Malaria No More",
-      "pubDate": "2026-06-18T07:00:00+00:00",
+      "title": "Anti-cancer molecules show promise in the fight against malaria",
+      "link": "https://medicalxpress.com/news/2026-09-anti-cancer-molecules-malaria.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-29T16:00:12-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2021/monoclonal-antibody-pr.jpg"
+    },
+    {
+      "title": "Malaria parasite can reawaken after years: New vaccine target may block liver infection",
+      "link": "https://medicalxpress.com/news/2026-09-malaria-parasite-reawaken-years-vaccine.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-09-24T17:00:11-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-study-researchers.jpg"
+    },
+    {
+      "title": "WHO guidelines for malaria, 10 September 2026",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTllzc3ZHZmRNMjFVRE4yMEhFemNoLTJmTU1tZVBnWmIySlVheWJjd21VYm5SUGx1VUNMRnlfVDFoNy1RNzZIdmdqQUtVSU9hNFQ5S3hBQ1EtblNBRlFLeDhfaVdjVV90ZUpzck9lUVZUcDdTUzNmMjJSN0V3eXBKeGtsYjJjX285aHBLaVJ1WFlEU0kzYndV?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
     {
@@ -65,27 +86,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-25T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-05-09T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Angola Strengthens Its Response to Malaria and Focuses on Vaccination to Save Lives",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGYwb1htVmt1SG4xaWotbzVTWk5ZTXgxcnJtdDZVMVpKR00ybjB2MzNWbTh4QkhtUmdaaEdyenNTLWhFQzR3d3ZScnhLNzVhZjh1YmRIcHBjREsxNDQ3WUJyWG0wNU45dldYQjdMa0s4Z3p1dzE5RUFfMTM1NG14eXl6VHZNWndqb3RMOC1KN2VQb0VTbUc2Smh0U1VZU0dLYXk3dTJnRm9vQUtySTBmdWJ2cDNlRnRsRzZDU0x3?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-04-29T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Malaria day: Scientists uncover lasting damage for children brains - na malaria cause am?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MSFg0d011aWE1cnFpR1lLVjdzdC12OHFMZUZZdDk4RExsVlNpd05rWVRLeEpDUmNfOFk1b28zX1JPcFlHNjRKWUY4QWtuS2Rka1FGZHUwX2FFQUN50gFiQVVfeXFMT1ZuZmV3bG1KVDZ2dlhGS3J0bldOVzBNM2FzWFlxSzIyWVp5dEw4Zzc4dUY4MjNkcnpIWU4tSFVtX3lnSjFSQ3dWN2ltcG90UTBYSDZQR0dlTGVkVVJBMjNYakE?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-04-25T07:00:00+00:00",
       "image": null
     }
   ]
