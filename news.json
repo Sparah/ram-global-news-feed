@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:38:29.954578+00:00",
+  "generatedAt": "2026-10-26T12:11:37.584379+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
@@ -15,7 +15,7 @@
       "title": "UNICEF and Gavi agree to cut Mosqivac malaria vaccine price by 40%",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25sWVNxMk5jeU4wd2V3YzhUTHBtZV9sSUJVVGUtWkxDMW1RUHJTV0lBR2s4Q3VqQ2gyTnFNN0NKSnlwVnBwUkNNMlhnYnRGaWEzcG1ncHViSVc4SG1Tem94ZzJxV1FyaXZ0VFlyTXFLVzNRNjExcFJPTzdnYlk5M2RHUzhDSFU1dGdNUEVPaHNUdkZrelplWGZab2xKd2pqcjVMeDBNSWptSzc0OVhnbjlzTTlVeWwwR2p1TmRMSFZaOXUtTXZYODNsZw?oc=5",
       "source": "Reuters",
-      "pubDate": "2026-10-22T14:29:00+00:00",
+      "pubDate": "2026-10-23T14:19:37+00:00",
       "image": null
     },
     {
@@ -27,9 +27,9 @@
     },
     {
       "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzZncldtWUdRclJBdjJnUnFxdkxmT2c1djlJZ3BmeU5vSFUxbHdRUFRvUGhlNTFxYkZ3bjNDRjZqNWlaMXhhWXZ0UnFBdmhfSXVEUXNoc0RtRXpXRmsxQzZKbmJuNFhhS2lmWXc2d00wRmhKRF9hSi00dG1oZU5yRnlmUmo3aE5LN2tfX3JHZ3pkSTFPTE1fOWZFdmlJMjBMdTFWVzRoREl1a2c4?oc=5",
-      "source": "AP News",
-      "pubDate": "2026-10-18T23:52:21+00:00",
+      "link": "https://medicalxpress.com/news/2026-10-equatorial-guinea-ambitious-malaria.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-10-19T03:56:42-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/equatorial-guinea-mala.jpg"
     },
     {
@@ -52,13 +52,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-08T05:00:26-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
-    },
-    {
-      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwSUtOaGpSNGhZS0JjblNGSS1XMWNOWmh3Qzgxbk5ONnhSSXNqWkRTOVA0Z3VmUUJxRng5Qi0zeUNSTG40VmRFemZRZURkYm02VUlkWTZJVlV1UGlBYnU0VTI4MHhUdw?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-09-05T19:22:24+00:00",
-      "image": null
     },
     {
       "title": "Malaria Know More: What Reaching Refugees and Displaced Populations Means for Malaria Elimination",
@@ -86,6 +79,13 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYlUxYjZJdHNRYjNZOFhFeF9qMFNsYmxIYnl0d2p0LXRfWEw4S05yalhSaDVCbWw0MExqQUFOVVA5RDlYa1JpRlh2R2c2aEw3bHZ6SHFTR0FCZU51VWNHdE5lajNuenAtRG9Ra1FnQzZkLVVQSExOUGtPQi1LZjA3SDFRVE5iRC01TWgwNGN2Ukw0YmQ5SExCMllOQ1lpR3l6MlZka3hGNWJSbVhIS2RTX2JqNm41X0tMRzZXRUdsMXNFT1dHQnBrSnRFcTRWX3JadmVqbDNSaGhaN1gxZFIzY1hjdE9XeG9aZWc1eERxZnh4eXZt?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-20T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQThCTVphSkZrbm8xXzBCNEFGVnl6RjhMR2p0MjNlSFF1VnRMUW5kWVZwSmxQZ3ZyWmRpd1JaN3RhZHhQSG4xeERiVDNnb2NiNUJRMm9ONXIwQVN3R2FMRnY3LVFlcXAzWV9hRFhDUUZUNmp3NzlJbHNTVzVkODRQSmN5Y0I5cnRNbWFV?oc=5",
+      "source": "The Lancet",
+      "pubDate": "2026-05-09T07:00:00+00:00",
       "image": null
     }
   ]
