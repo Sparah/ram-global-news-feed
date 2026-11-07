@@ -1,21 +1,14 @@
 {
-  "generatedAt": "2026-11-06T13:41:27.369635+00:00",
+  "generatedAt": "2026-11-07T12:22:59.694189+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 5,
   "articles": [
     {
       "title": "Quick takes: Salmonella-typhoid vaccine, long-acting malaria drug, rapid viral vs bacterial test",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZWFteURQTzhSNDgtdHR0b1FNd3lHM2lsenREcDZKaW5yb19RX0RYd3BJVmtMWkJpcjlETThJQ0lRclphY0dEanFXbDdJZnNrLUpzWGJjdnlCVHAxWkpDRzJiUE1xQ0dxUHB1ZmY5UHdOQUI3VzVBaUtsTlJ1Smx5QzdSM2FlUGlBY29XQWlIdVZEQnNvRGpMOFl2MG9XZDZEemZzci1SMmk4R29uWm95MGxuNHMzb1ppVGFoNTdfSDl1ZjFK?oc=5",
       "source": "CIDRAP",
       "pubDate": "2026-11-05T17:14:00+00:00",
-      "image": null
-    },
-    {
-      "title": "Young woman takes on malaria in Uganda with homemade soap",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YXVlRTJkaTh0c1ZwS2NhczhYTUM1RlpHMURwY29rQlVOUEZDcGoyVVVBaGlYYTF4eHVJTnJjLS1UQ2NLcjY1QUFFMmo4VnZWQlJpakYwZndxdF9x?oc=5",
-      "source": "Reuters",
-      "pubDate": "2026-11-05T05:21:53+00:00",
       "image": null
     },
     {
@@ -30,13 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmo2MENkVTc4NFpuYmVLNjBWWGN4SjNib2pmaTR4TnVJb0phR29rUE93TFl6ZkJjODVNa21PTVE1NE5qbEZvQUxaalVNdVowcElfUmpWWWx3d2RWN1p4VDduZTBNSVU0bzJjcUhXM29oZnJycmpaX0l2Z2JNNnRQMHRQOUxTdVpuVUZiZVhIYW13U3RRa09tNnlVdnN3a1RkZDJ1WU1vNG8tTHJiQW1QdXBYbHBWV3ZYV3lvZHZOVDE0OTBhdFFyWkZZYmUwM0NJZ3c?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-11-02T13:07:33+00:00",
-      "image": null
-    },
-    {
-      "title": "Equatorial Guinea expands ambitious malaria elimination plan",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVFMNWR2UjNYcVNZdVZjMVFCT25Xdlk1NHFKZkgxSzkyY2NfcG9HWkNBTG9sa3hDVGg3akIzaThYZ3poVlRQRURsN2RBb3M4bXg5ZWVRSU0xSHJXV2JhUHZuTEZsSF9FMTRaSlFMUktWSHcwTmVjUTFxT0dtci1VQ0draDlKcGxWbE9KcDNram5hZlB0ZlpjcGc2bXdmT1NVdkpVMWpnWHMwX2RmWElNRVN0YlZFUDRZV3c?oc=5",
-      "source": "AP News",
-      "pubDate": "2026-10-19T07:00:00+00:00",
       "image": null
     },
     {
@@ -59,6 +45,13 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-09T15:00:12-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-remains-the-le.jpg"
+    },
+    {
+      "title": "Distinct malaria parasites may help explain sickle cell trait's protection against disease",
+      "link": "https://medicalxpress.com/news/2026-10-distinct-malaria-parasites-sickle-cell.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-10-08T05:00:26-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
     },
     {
       "title": "WHO guidelines for malaria",
@@ -86,6 +79,13 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-26T13:18:37+00:00",
+      "image": null
+    },
+    {
+      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-25T07:00:00+00:00",
       "image": null
     }
   ]
