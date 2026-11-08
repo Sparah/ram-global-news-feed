@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T12:22:59.694189+00:00",
+  "generatedAt": "2026-11-08T12:41:51.357579+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 5,
+  "imagesResolved": 4,
   "articles": [
     {
       "title": "Quick takes: Salmonella-typhoid vaccine, long-acting malaria drug, rapid viral vs bacterial test",
@@ -26,6 +26,13 @@
       "image": null
     },
     {
+      "title": "Guinea Ecuatorial amplía su ambicioso plan para la eliminación de la malaria",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelBhbWJmOHIxT21MLVJ0eU9xVVlmWHVYUDZmXzR6WVVLanZKUmVTSkxhRjRIa0o1dU01czdUMzhrRHNnYUk2Q3pIZUROUkpCT1RoT0syZUY1SE5DUVc0Zl93cGFKMHVRbmktUVFXNVRidXlPSkh2bm1oVmQ0YWdhdG9sd3VIb3ZxY2RJemoyUEpHVXdCX3ViZ0RxRjdXeWR1QU9KZ0Y5T3FsbEpKOTBnUkRzMVdfR203TlJpb0o0SGR2T3JfQlhmUS1jUVl2bGM?oc=5",
+      "source": "AP News",
+      "pubDate": "2026-11-02T06:02:00+00:00",
+      "image": null
+    },
+    {
       "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
       "link": "https://medicalxpress.com/news/2026-10-equatorial-guinea-ambitious-malaria.html",
       "source": "MedicalXpress Malaria Search",
@@ -45,13 +52,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-09T15:00:12-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-remains-the-le.jpg"
-    },
-    {
-      "title": "Distinct malaria parasites may help explain sickle cell trait's protection against disease",
-      "link": "https://medicalxpress.com/news/2026-10-distinct-malaria-parasites-sickle-cell.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-10-08T05:00:26-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
     },
     {
       "title": "WHO guidelines for malaria",
