@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-11-08T12:41:51.357579+00:00",
+  "generatedAt": "2026-11-09T15:03:33.568110+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 4,
+  "imagesResolved": 5,
   "articles": [
-    {
-      "title": "Quick takes: Salmonella-typhoid vaccine, long-acting malaria drug, rapid viral vs bacterial test",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZWFteURQTzhSNDgtdHR0b1FNd3lHM2lsenREcDZKaW5yb19RX0RYd3BJVmtMWkJpcjlETThJQ0lRclphY0dEanFXbDdJZnNrLUpzWGJjdnlCVHAxWkpDRzJiUE1xQ0dxUHB1ZmY5UHdOQUI3VzVBaUtsTlJ1Smx5QzdSM2FlUGlBY29XQWlIdVZEQnNvRGpMOFl2MG9XZDZEemZzci1SMmk4R29uWm95MGxuNHMzb1ppVGFoNTdfSDl1ZjFK?oc=5",
-      "source": "CIDRAP",
-      "pubDate": "2026-11-05T17:14:00+00:00",
-      "image": null
-    },
     {
       "title": "Frankfurt says airport malaria cases likely from West Africa",
       "link": "https://medicalxpress.com/news/2026-11-frankfurt-airport-malaria-cases-west.html",
@@ -29,7 +22,7 @@
       "title": "Guinea Ecuatorial amplía su ambicioso plan para la eliminación de la malaria",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelBhbWJmOHIxT21MLVJ0eU9xVVlmWHVYUDZmXzR6WVVLanZKUmVTSkxhRjRIa0o1dU01czdUMzhrRHNnYUk2Q3pIZUROUkpCT1RoT0syZUY1SE5DUVc0Zl93cGFKMHVRbmktUVFXNVRidXlPSkh2bm1oVmQ0YWdhdG9sd3VIb3ZxY2RJemoyUEpHVXdCX3ViZ0RxRjdXeWR1QU9KZ0Y5T3FsbEpKOTBnUkRzMVdfR203TlJpb0o0SGR2T3JfQlhmUS1jUVl2bGM?oc=5",
       "source": "AP News",
-      "pubDate": "2026-11-02T06:02:00+00:00",
+      "pubDate": "2026-11-01T07:00:00+00:00",
       "image": null
     },
     {
@@ -52,6 +45,13 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-09T15:00:12-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-remains-the-le.jpg"
+    },
+    {
+      "title": "Distinct malaria parasites may help explain sickle cell trait's protection against disease",
+      "link": "https://medicalxpress.com/news/2026-10-distinct-malaria-parasites-sickle-cell.html",
+      "source": "MedicalXpress Malaria Search",
+      "pubDate": "2026-10-08T05:00:26-04:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
     },
     {
       "title": "WHO guidelines for malaria",
