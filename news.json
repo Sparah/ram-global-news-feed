@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-09T15:03:33.568110+00:00",
+  "generatedAt": "2026-11-10T14:15:53.031585+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 5,
   "articles": [
+    {
+      "title": "How a protein contributes to blood vessel damage in the brain in patients with malaria",
+      "link": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-11-09T14:00:01-05:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-a-protein-contribu.jpg"
+    },
     {
       "title": "Frankfurt says airport malaria cases likely from West Africa",
       "link": "https://medicalxpress.com/news/2026-11-frankfurt-airport-malaria-cases-west.html",
@@ -47,17 +54,17 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-remains-the-le.jpg"
     },
     {
-      "title": "Distinct malaria parasites may help explain sickle cell trait's protection against disease",
-      "link": "https://medicalxpress.com/news/2026-10-distinct-malaria-parasites-sickle-cell.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-10-08T05:00:26-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/distinct-malaria-paras.jpg"
-    },
-    {
       "title": "WHO guidelines for malaria",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-09-10T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "The UN supports improving data on malaria and HIV",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGFpOVF2b3R4ZU96R0Jyb1JxenVBY2p4SUZBN0Q3MGFNemY0dExYd280TjUzcjFpa1JKWVNiVzhyUE4yZWl3d05SSmxrSDIwMjd6RGEzdklEMlNoQnFkY3YyVDY4TXhqM0FqN1pYVHBJdHlZcUNpY0pxT3ZuMTgtWGhxZkhrT3FiSHhJcFpyT21QLWVHT2taTTBZTDg?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-09-04T08:59:54+00:00",
       "image": null
     },
     {
@@ -79,13 +86,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-05-26T13:18:37+00:00",
-      "image": null
-    },
-    {
-      "title": "High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPT0NJbEg1UkVCYkVrbTkxM3RUeWFXaDVkWUJscTlhbHdrY0pDWWYzcElKSlNyVnh5WXZiNHRIWU5sZFFSQjN1cFFOQ3kwU1VBd045RElRZDVEWS00aVJCY0ZjcnZxZkk4SmdRc1R4eUNPQ1pXTm9PVnhZVGV4TmcxUGRHczlOOWl1SDZiMWJuRFpxMlp1RlB3STFyY3hnZVQyMGRUN2VWYk1BQUdkemtYR3BOaFdxbU81M1ZQa2NsMHB0UkctRS1URXJaTHc2UnFCSmJFS1VCYUlZSFFQQ2hXR25UR0dRdkg5d1J0Zk1JcHdVTng5OWRrUHFxTTU1X0JHbF9QV0VpQmZhZWxESVVfLXFiVTU5ck1mRm1XcGJEUnpqZlJ3?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-05-25T07:00:00+00:00",
       "image": null
     }
   ]
