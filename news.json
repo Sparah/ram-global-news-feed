@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-12T14:33:30.818610+00:00",
+  "generatedAt": "2026-11-13T13:52:02.586416+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 5,
+  "imagesResolved": 6,
   "articles": [
+    {
+      "title": "First complete genomes for neglected malaria parasites revealed",
+      "link": "https://medicalxpress.com/news/2026-11-genomes-neglected-malaria-parasites-revealed.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-11-12T14:00:42-05:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/first-complete-genomes.jpg"
+    },
     {
       "title": "Jab by jab, house by house, Nigeria slowly rolls out malaria vaccine",
       "link": "https://medicalxpress.com/news/2026-11-jab-house-nigeria-slowly-malaria.html",
@@ -79,13 +86,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1NEdVduLWhCMi14cVdrWWMxTFA0QjdDdF9HR1o1VXZ1ekF4a01NSkJ4UHpHTDUyWm1OeWhtZ0Y1QkptdEZUMldjZHp0Y0VPd1M5ZVJtUU9zSXhVRXh4ZWNaRkgzendJbVdMaXR3d1VHZzYyZ0pNc2dXZ3RLbmFybzFiQXJIbl93SnhaQ0JNelVmSUpoeUtiWkZLMV9kcm05QzMzejNn?oc=5",
       "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-09-03T01:04:52+00:00",
-      "image": null
-    },
-    {
-      "title": "Botswana advances establishment of the end Malaria and Neglected Tropical Diseases Council",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdaYS1yaHFodUNqZjRqWHJaQndSMFR6WWttS1hrQWcxOXNyaDRqNWVjdnVQQ281VGVTZXkxOWlNQ3VYZHZTZDYzTUxIaGswRmxVTjFEUzdZUFhlQ0tETXJ4ck8waldOQXZfdGNEb3ZHRFVCazh1N1hiWlZRRUJCb1VBWFVSRS1SbzBIQS04YXFGc25YNG9jUU5mMnNpTU1Id0daNERXam1GX0F6T2VvNk5ac2kza3dQRVB0NUxzaExSb1pLb09McHRNNEk?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-07-14T15:49:30+00:00",
       "image": null
     }
   ]
