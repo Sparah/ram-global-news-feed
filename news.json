@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-13T13:52:02.586416+00:00",
+  "generatedAt": "2026-11-14T12:55:07.681940+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 6,
   "articles": [
+    {
+      "title": "Scientists breed a 'pan-African' malaria parasite to build a better whole-parasite malaria vaccine",
+      "link": "https://medicalxpress.com/news/2026-11-scientists-pan-african-malaria-parasite.html",
+      "source": "MedicalXpress Infectious Diseases",
+      "pubDate": "2026-11-13T11:20:01-05:00",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2021/malaria.jpg"
+    },
     {
       "title": "First complete genomes for neglected malaria parasites revealed",
       "link": "https://medicalxpress.com/news/2026-11-genomes-neglected-malaria-parasites-revealed.html",
@@ -21,7 +28,7 @@
     {
       "title": "How a protein contributes to blood vessel damage in the brain in patients with malaria",
       "link": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-11-09T14:00:01-05:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-a-protein-contribu.jpg"
     },
@@ -52,13 +59,6 @@
       "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-10-19T03:56:42-04:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/equatorial-guinea-mala.jpg"
-    },
-    {
-      "title": "AI-powered device can fight against malaria by detecting and repelling mosquitoes",
-      "link": "https://medicalxpress.com/news/2026-10-ai-powered-device-malaria-repelling.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-10-12T12:00:20-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mosquitoes-1.jpg"
     },
     {
       "title": "WHO guidelines for malaria",
