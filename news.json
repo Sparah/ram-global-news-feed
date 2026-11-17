@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T14:40:17.602196+00:00",
+  "generatedAt": "2026-11-17T15:27:15.954455+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 6,
+  "imagesResolved": 5,
   "articles": [
     {
       "title": "Scientists breed a 'pan-African' malaria parasite to build a better whole-parasite malaria vaccine",
@@ -14,14 +14,14 @@
     {
       "title": "First complete genomes for neglected malaria parasites revealed",
       "link": "https://medicalxpress.com/news/2026-11-genomes-neglected-malaria-parasites-revealed.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-11-12T14:00:42-05:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/first-complete-genomes.jpg"
     },
     {
       "title": "Jab by jab, house by house, Nigeria slowly rolls out malaria vaccine",
       "link": "https://medicalxpress.com/news/2026-11-jab-house-nigeria-slowly-malaria.html",
-      "source": "MedicalXpress Infectious Diseases",
+      "source": "MedicalXpress Malaria Search",
       "pubDate": "2026-11-12T04:13:31-05:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
     },
@@ -54,13 +54,6 @@
       "image": null
     },
     {
-      "title": "Equatorial Guinea is expanding an ambitious malaria elimination plan",
-      "link": "https://medicalxpress.com/news/2026-10-equatorial-guinea-ambitious-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-10-19T03:56:42-04:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/equatorial-guinea-mala.jpg"
-    },
-    {
       "title": "WHO guidelines for malaria",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
       "source": "World Health Organization (WHO)",
@@ -86,6 +79,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZ3k3bnNRVFZaY3Q2M0VtbkRTV2xsU3YySXZPMmRONVV0MWs4UXJOWFA0cDVNc05sRVVIb1lHVUtjbEZQTi1HT19ydDJraWlrdFpNZFc4cDdtdw?oc=5",
       "source": "World Health Organization (WHO)",
       "pubDate": "2026-07-30T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "Malaria and Vector-Borne Diseases",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDlmU3NKR1REcE1ENFN5NGFCZ1pVZ2pqeFpwWExfbTRsamVpS2xjaWY0RkU0eVptd1h3em1YMlEtVTVnazQ1My11X0g1enRCNzYyV0h4b05DU2hfai01UlpqeXg2MU5BQTE5M0lsT3FkS004cnhVcnYtZ0JBRS1VM01jZkJmVXNHTS12dG1IWkVmdG5DWXpyeExONnlKZlE5R1NvU05zSkVzR1VfVTgwcF9WNVl6M29DRzd1X3RxZGR0Y3k5MHFUeEgweVNkTVdNM3FENzhFSVRkcTVCd3ZnM00zU3QyQzhiUmJ5WnF3bG9rOU1KMVJhMko0NA?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-05-26T13:18:37+00:00",
       "image": null
     }
   ]
