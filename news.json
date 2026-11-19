@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-11-18T15:02:15.083087+00:00",
-  "stale": true,
+  "generatedAt": "2026-11-19T15:11:45.975939+00:00",
+  "stale": false,
   "count": 12,
-  "imagesResolved": 12,
+  "imagesResolved": 4,
   "articles": [
+    {
+      "title": "WHO and KSrelief strengthen malaria prevention for displaced families in Aden",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSml6MkdGR3k2MlFwNWxmTHR3TUxXS1BoV2lnUkduOC1yVUlXV0xSbGNjUWNzaUNOclNOam1tZmNiLW9rZmdRZ2NsZDlqOE92RGR1M3ZvWWN4NkVlN0tBQlBSTk9DbTBHclJrc2pndU5iSjhRLXdDVnZRQjJnX0NhTEtDYlJHWVFqLWYtam1xMnNmb2N5WHhYUmRfXzVHMkw5WGJQcjgzNUtUU3NkTDhvMFBsMThHcnVVUXc?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-11-19T13:44:46+00:00",
+      "image": null
+    },
+    {
+      "title": "Kenya launches campaign to distribute almost 10.8 million mosquito nets to families in 18 high malaria burden counties",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSWVxYkg3TlB0Qy1rd0FnNGczVzVybjlKSHZVd1ZfZHktNy1XeGtLY0hsMGJ1SEdvejVWQUxjU0VMY2d4NU1UR3lSdFhYYk1GdnIxSjF6T1hyVHdZWjN2NWRlc3hkeVRKZ3pZMV9jWW9CbEdkRy1sbFVjajNTMnk3cDBMNHFrZjQ5cjZxYjFCMUhCTHVqaDZIajVqVXVDMFNPSVVJYUpQVXNGcTJHUlFONlNsalExMDlGdHJEbHJ6YkZNUFRaZHZCRHZrVGJ5eXREcXJqWWlTdkVvUkU4R1E?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-11-19T09:24:15+00:00",
+      "image": null
+    },
+    {
+      "title": "Estimating malaria burden in sub-Saharan Africa under intervention disruption using satellite-derived representations",
+      "link": "https://www.nature.com/articles/s41467-026-79054-y",
+      "source": "Nature Malaria",
+      "pubDate": "2026-11-19T00:00:00+00:00",
+      "image": null
+    },
     {
       "title": "Scientists breed a 'pan-African' malaria parasite to build a better whole-parasite malaria vaccine",
       "link": "https://medicalxpress.com/news/2026-11-scientists-pan-african-malaria-parasite.html",
@@ -19,18 +40,18 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/first-complete-genomes.jpg"
     },
     {
-      "title": "Jab by jab, house by house, Nigeria slowly rolls out malaria vaccine",
-      "link": "https://medicalxpress.com/news/2026-11-jab-house-nigeria-slowly-malaria.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-11-12T04:13:31-05:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
+      "title": "Call for Experts: the Regional Programme Review Group on Malaria and Neglected Tropical Diseases",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmo2MENkVTc4NFpuYmVLNjBWWGN4SjNib2pmaTR4TnVJb0phR29rUE93TFl6ZkJjODVNa21PTVE1NE5qbEZvQUxaalVNdVowcElfUmpWWWx3d2RWN1p4VDduZTBNSVU0bzJjcUhXM29oZnJycmpaX0l2Z2JNNnRQMHRQOUxTdVpuVUZiZVhIYW13U3RRa09tNnlVdnN3a1RkZDJ1WU1vNG8tTHJiQW1QdXBYbHBWV3ZYV3lvZHZOVDE0OTBhdFFyWkZZYmUwM0NJZ3c?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-11-02T13:07:33+00:00",
+      "image": null
     },
     {
-      "title": "How a protein contributes to blood vessel damage in the brain in patients with malaria",
-      "link": "https://medicalxpress.com/news/2026-11-protein-contributes-blood-vessel-brain.html",
-      "source": "MedicalXpress Malaria Search",
-      "pubDate": "2026-11-09T14:00:01-05:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-a-protein-contribu.jpg"
+      "title": "Guinea Ecuatorial amplía su ambicioso plan para la eliminación de la malaria",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelBhbWJmOHIxT21MLVJ0eU9xVVlmWHVYUDZmXzR6WVVLanZKUmVTSkxhRjRIa0o1dU01czdUMzhrRHNnYUk2Q3pIZUROUkpCT1RoT0syZUY1SE5DUVc0Zl93cGFKMHVRbmktUVFXNVRidXlPSkh2bm1oVmQ0YWdhdG9sd3VIb3ZxY2RJemoyUEpHVXdCX3ViZ0RxRjdXeWR1QU9KZ0Y5T3FsbEpKOTBnUkRzMVdfR203TlJpb0o0SGR2T3JfQlhmUS1jUVl2bGM?oc=5",
+      "source": "AP News",
+      "pubDate": "2026-11-01T07:00:00+00:00",
+      "image": null
     },
     {
       "title": "Climate change threatens malaria elimination in the Asia Pacific",
@@ -47,46 +68,25 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41579-026-01382-z/MediaObjects/41579_2026_1382_Fig1_HTML.png"
     },
     {
-      "title": "Sickle cell haemoglobin status shapes malaria parasite genotype in asymptomatic infections",
-      "link": "https://www.nature.com/articles/s41564-026-02502-4",
-      "source": "Nature Malaria",
-      "pubDate": "2026-10-08T00:00:00+00:00",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-026-02502-4/MediaObjects/41564_2026_2502_Fig1_HTML.png"
+      "title": "WHO guidelines for malaria",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-09-10T07:00:00+00:00",
+      "image": null
     },
     {
-      "title": "Parasitological efficacy of sulfadoxine-pyrimethamine and amodiaquine for seasonal malaria chemoprevention in Africa",
-      "link": "https://www.nature.com/articles/s41467-026-78189-2",
-      "source": "Nature Malaria",
-      "pubDate": "2026-10-01T00:00:00+00:00",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78189-2/MediaObjects/41467_2026_78189_Fig1_HTML.png"
+      "title": "The UN supports improving data on malaria and HIV",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGFpOVF2b3R4ZU96R0Jyb1JxenVBY2p4SUZBN0Q3MGFNemY0dExYd280TjUzcjFpa1JKWVNiVzhyUE4yZWl3d05SSmxrSDIwMjd6RGEzdklEMlNoQnFkY3YyVDY4TXhqM0FqN1pYVHBJdHlZcUNpY0pxT3ZuMTgtWGhxZkhrT3FiSHhJcFpyT21QLWVHT2taTTBZTDg?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-09-04T08:59:54+00:00",
+      "image": null
     },
     {
-      "title": "Scientists discover tiny rocket engines inside malaria parasites",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2026-03-19T07:19:27-04:00",
-      "image": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp"
-    },
-    {
-      "title": "Scientists discover the protein that malaria parasites can’t live without",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2026-03-05T00:03:04-05:00",
-      "image": "https://www.sciencedaily.com/images/1920/dangerous-malaria-infected-mosquito-skin-bite.webp"
-    },
-    {
-      "title": "Ivermectin: The mosquito-killing pill that dropped malaria by 26%",
-      "link": "https://www.sciencedaily.com/releases/2025/07/250724232415.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2025-07-26T12:09:34-04:00",
-      "image": "https://www.sciencedaily.com/images/1920/ivermectin-tablets.webp"
-    },
-    {
-      "title": "Bed-netting prototypes to target malaria-causing parasites",
-      "link": "https://www.sciencedaily.com/releases/2025/05/250521161112.htm",
-      "source": "ScienceDaily",
-      "pubDate": "2025-05-21T16:11:12-04:00",
-      "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      "title": "A bigger killer than AIDS, malaria and tuberculosis combined",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1NEdVduLWhCMi14cVdrWWMxTFA0QjdDdF9HR1o1VXZ1ekF4a01NSkJ4UHpHTDUyWm1OeWhtZ0Y1QkptdEZUMldjZHp0Y0VPd1M5ZVJtUU9zSXhVRXh4ZWNaRkgzendJbVdMaXR3d1VHZzYyZ0pNc2dXZ3RLbmFybzFiQXJIbl93SnhaQ0JNelVmSUpoeUtiWkZLMV9kcm05QzMzejNn?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-09-03T01:04:52+00:00",
+      "image": null
     }
   ]
 }
