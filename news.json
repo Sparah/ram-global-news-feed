@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-11-21T14:08:53.021453+00:00",
+  "generatedAt": "2026-11-22T13:59:27.728390+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
   "articles": [
-    {
-      "title": "Immunizing entire villages with a malaria vaccine significantly cut malaria in West Africa",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmZIcjNVN2Y1d1h6d2pqVDk0LWlyWkw1QkhQOThYS3djUjJEMmwzREhKaXIyaGYyWUZFc2w5dlRmc3RiNFhwanRxdlM5OUR3UEJiQ0FDaVBqdmpsMUdNTS1mWmFoVFB2aUQ2SlhtaEhLNTFoZlhadzYxTG5ua0ZodE8xRnBxd2VUaFJwWG1Ka2NERG9Yc1ZCY19qR2U5NHc1SGpXcWJHX2Z4U2YzcUp1SjFvak9EUQ?oc=5",
-      "source": "CIDRAP",
-      "pubDate": "2026-11-20T19:11:37+00:00",
-      "image": null
-    },
     {
       "title": "Malaria antibody protects infants but lowers immune response to R21 vaccine, trial finds",
       "link": "https://medicalxpress.com/news/2026-11-malaria-antibody-infants-lowers-immune.html",
@@ -24,20 +17,6 @@
       "source": "MedicalXpress Infectious Diseases",
       "pubDate": "2026-11-20T09:20:25-05:00",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria-1.jpg"
-    },
-    {
-      "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmlSUnFWNXc4QnM0VXFCOVRLbmx2dHZOZHdoRnVWYVZwODdFa3ZHSnVHMXdVY2ZPUU5CZURzNFc5cmM4SmxLWm80UkpkYWYzRGE3MjBIRlROTjIzWUtEandzN0U1YnZDb00teXMwVTB6MkFpLUVhMktDbmQ5b09JbFNXYlM3VU1aaW84?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-11-20T06:21:36+00:00",
-      "image": null
-    },
-    {
-      "title": "Seasonal mass vaccination for malaria control in west Africa",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWl6U1dEdVJnV3h4c3ZzNE9CbG9WSTJJUkdvX3ZSSzNfal9oQUFGZHZkb3hWQ095ZTVTTUJkY0t2ZUtkekdnWUZVZzFTN1JhRUNudlVNREhKcktFWEVzVGprRUhEamFuRDEwTjA3NFY5OXJSNnlYZ241d1R4Z0tJXzFyLTB5a0g2c1RZ?oc=5",
-      "source": "The Lancet",
-      "pubDate": "2026-11-20T06:21:36+00:00",
-      "image": null
     },
     {
       "title": "var2csa transcription implicates variant surface antigen switching in cerebral malaria pathogenesis",
@@ -68,6 +47,13 @@
       "image": null
     },
     {
+      "title": "Advisor, Malaria Technical and Programmatic Support",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWZCLUxNZ0pSVVFRYjJPYkFwbjROTS1BM2dIZkptOWhreEpaS29hTm1wUUFma3o1M0NJeFR6S0NtX2JrQVI1Nlk5LXJpRFlLZUZmbjBsQmVGRzVrT0t3b2w0MFRBQ2pncmRDbG9Xa3d3UkxCbURqWm02bmsyVmFKdHk4VThhbS1YNXd4WjF3?oc=5",
+      "source": "Devex",
+      "pubDate": "2026-11-19T08:00:00+00:00",
+      "image": null
+    },
+    {
       "title": "Estimating malaria burden in sub-Saharan Africa under intervention disruption using satellite-derived representations",
       "link": "https://www.nature.com/articles/s41467-026-79054-y",
       "source": "Nature Malaria",
@@ -82,10 +68,24 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2021/malaria.jpg"
     },
     {
+      "title": "Call for Experts: the Regional Programme Review Group on Malaria and Neglected Tropical Diseases",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmo2MENkVTc4NFpuYmVLNjBWWGN4SjNib2pmaTR4TnVJb0phR29rUE93TFl6ZkJjODVNa21PTVE1NE5qbEZvQUxaalVNdVowcElfUmpWWWx3d2RWN1p4VDduZTBNSVU0bzJjcUhXM29oZnJycmpaX0l2Z2JNNnRQMHRQOUxTdVpuVUZiZVhIYW13U3RRa09tNnlVdnN3a1RkZDJ1WU1vNG8tTHJiQW1QdXBYbHBWV3ZYV3lvZHZOVDE0OTBhdFFyWkZZYmUwM0NJZ3c?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-11-02T13:07:33+00:00",
+      "image": null
+    },
+    {
       "title": "Guinea Ecuatorial amplía su ambicioso plan para la eliminación de la malaria",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelBhbWJmOHIxT21MLVJ0eU9xVVlmWHVYUDZmXzR6WVVLanZKUmVTSkxhRjRIa0o1dU01czdUMzhrRHNnYUk2Q3pIZUROUkpCT1RoT0syZUY1SE5DUVc0Zl93cGFKMHVRbmktUVFXNVRidXlPSkh2bm1oVmQ0YWdhdG9sd3VIb3ZxY2RJemoyUEpHVXdCX3ViZ0RxRjdXeWR1QU9KZ0Y5T3FsbEpKOTBnUkRzMVdfR203TlJpb0o0SGR2T3JfQlhmUS1jUVl2bGM?oc=5",
       "source": "AP News",
       "pubDate": "2026-11-01T07:00:00+00:00",
+      "image": null
+    },
+    {
+      "title": "The UN supports improving data on malaria and HIV",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGFpOVF2b3R4ZU96R0Jyb1JxenVBY2p4SUZBN0Q3MGFNemY0dExYd280TjUzcjFpa1JKWVNiVzhyUE4yZWl3d05SSmxrSDIwMjd6RGEzdklEMlNoQnFkY3YyVDY4TXhqM0FqN1pYVHBJdHlZcUNpY0pxT3ZuMTgtWGhxZkhrT3FiSHhJcFpyT21QLWVHT2taTTBZTDg?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-09-04T08:59:54+00:00",
       "image": null
     }
   ]
