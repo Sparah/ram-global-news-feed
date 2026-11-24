@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-23T17:17:25.168105+00:00",
+  "generatedAt": "2026-11-24T16:55:50.490944+00:00",
   "stale": false,
   "count": 12,
-  "imagesResolved": 5,
+  "imagesResolved": 4,
   "articles": [
+    {
+      "title": "Immunizing entire villages with a malaria vaccine significantly cut malaria in West Africa",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmZIcjNVN2Y1d1h6d2pqVDk0LWlyWkw1QkhQOThYS3djUjJEMmwzREhKaXIyaGYyWUZFc2w5dlRmc3RiNFhwanRxdlM5OUR3UEJiQ0FDaVBqdmpsMUdNTS1mWmFoVFB2aUQ2SlhtaEhLNTFoZlhadzYxTG5ua0ZodE8xRnBxd2VUaFJwWG1Ka2NERG9Yc1ZCY19qR2U5NHc1SGpXcWJHX2Z4U2YzcUp1SjFvak9EUQ?oc=5",
+      "source": "CIDRAP",
+      "pubDate": "2026-11-20T19:11:37+00:00",
+      "image": null
+    },
     {
       "title": "Malaria antibody protects infants but lowers immune response to R21 vaccine, trial finds",
       "link": "https://medicalxpress.com/news/2026-11-malaria-antibody-infants-lowers-immune.html",
@@ -26,11 +33,11 @@
       "image": null
     },
     {
-      "title": "Seasonal mass vaccination with R21 malaria vaccine effective in reducing malaria infection",
-      "link": "https://medicalxpress.com/news/2026-11-seasonal-mass-vaccination-r21-malaria.html",
-      "source": "MedicalXpress Infectious Diseases",
-      "pubDate": "2026-11-19T18:30:01-05:00",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria.jpg"
+      "title": "WHO and KSrelief strengthen malaria prevention for displaced families in Aden",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSml6MkdGR3k2MlFwNWxmTHR3TUxXS1BoV2lnUkduOC1yVUlXV0xSbGNjUWNzaUNOclNOam1tZmNiLW9rZmdRZ2NsZDlqOE92RGR1M3ZvWWN4NkVlN0tBQlBSTk9DbTBHclJrc2pndU5iSjhRLXdDVnZRQjJnX0NhTEtDYlJHWVFqLWYtam1xMnNmb2N5WHhYUmRfXzVHMkw5WGJQcjgzNUtUU3NkTDhvMFBsMThHcnVVUXc?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-11-19T14:01:39+00:00",
+      "image": null
     },
     {
       "title": "Kenya launches campaign to distribute almost 10.8 million mosquito nets to families in 18 high malaria burden counties",
@@ -72,13 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelBhbWJmOHIxT21MLVJ0eU9xVVlmWHVYUDZmXzR6WVVLanZKUmVTSkxhRjRIa0o1dU01czdUMzhrRHNnYUk2Q3pIZUROUkpCT1RoT0syZUY1SE5DUVc0Zl93cGFKMHVRbmktUVFXNVRidXlPSkh2bm1oVmQ0YWdhdG9sd3VIb3ZxY2RJemoyUEpHVXdCX3ViZ0RxRjdXeWR1QU9KZ0Y5T3FsbEpKOTBnUkRzMVdfR203TlJpb0o0SGR2T3JfQlhmUS1jUVl2bGM?oc=5",
       "source": "AP News",
       "pubDate": "2026-11-01T07:00:00+00:00",
-      "image": null
-    },
-    {
-      "title": "WHO guidelines for malaria",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-09-10T07:00:00+00:00",
       "image": null
     },
     {
