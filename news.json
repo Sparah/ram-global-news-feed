@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T16:20:09.971086+00:00",
+  "generatedAt": "2026-11-27T16:04:11.976159+00:00",
   "stale": false,
   "count": 12,
   "imagesResolved": 4,
   "articles": [
     {
-      "title": "Health Check | Impact of malaria on schooling and lifetime earnings",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2NjNUbFhMdzFPNmpJcG9NaVFTcjVzUGgtLWZVcjFNaDZPcDlKajhVZFhlZUFpLWNiXzhQbmpIRUp0Z1hTVU9OaFM1MXVhbU1Y?oc=5",
-      "source": "BBC",
-      "pubDate": "2026-11-25T21:52:02+00:00",
+      "title": "Gavi set to restore malaria vaccine funding for countries",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFM0YzdvT25icGFkdENJU3FsY0ZmUG1YN2ZwWlplTjE1bmYyaG1FNzF6SUl5U3RPVkFnRFQyMDlDR1NZUThVOHJPa29LVkctWjB0MzM0RVdERXFkMXVLMXpKZ2FFdURMcWRaX2VPd290LTEwZTVnSGJOVjRfV2JPTUhqTXJZUG1kM1B1UHYtVVVleENiRVI5RDFwT3AxUm9EOGVoUDhqeHlRWWxOREx6emRlVjR2RWhLRF9BcUlTVQ?oc=5",
+      "source": "Reuters",
+      "pubDate": "2026-11-27T07:32:00+00:00",
       "image": null
     },
     {
@@ -47,20 +47,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/malaria.jpg"
     },
     {
-      "title": "WHO and KSrelief strengthen malaria prevention for displaced families in Aden",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSml6MkdGR3k2MlFwNWxmTHR3TUxXS1BoV2lnUkduOC1yVUlXV0xSbGNjUWNzaUNOclNOam1tZmNiLW9rZmdRZ2NsZDlqOE92RGR1M3ZvWWN4NkVlN0tBQlBSTk9DbTBHclJrc2pndU5iSjhRLXdDVnZRQjJnX0NhTEtDYlJHWVFqLWYtam1xMnNmb2N5WHhYUmRfXzVHMkw5WGJQcjgzNUtUU3NkTDhvMFBsMThHcnVVUXc?oc=5",
-      "source": "World Health Organization (WHO)",
-      "pubDate": "2026-11-19T14:01:39+00:00",
-      "image": null
-    },
-    {
-      "title": "Kenya launches campaign to distribute almost 10.8 million mosquito nets to families in 18 high malaria burden counties",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSWVxYkg3TlB0Qy1rd0FnNGczVzVybjlKSHZVd1ZfZHktNy1XeGtLY0hsMGJ1SEdvejVWQUxjU0VMY2d4NU1UR3lSdFhYYk1GdnIxSjF6T1hyVHdZWjN2NWRlc3hkeVRKZ3pZMV9jWW9CbEdkRy1sbFVjajNTMnk3cDBMNHFrZjQ5cjZxYjFCMUhCTHVqaDZIajVqVXVDMFNPSVVJYUpQVXNGcTJHUlFONlNsalExMDlGdHJEbHJ6YkZNUFRaZHZCRHZrVGJ5eXREcXJqWWlTdkVvUkU4R1E?oc=5",
-      "source": "WHO | Regional Office for Africa",
-      "pubDate": "2026-11-19T12:02:49+00:00",
-      "image": null
-    },
-    {
       "title": "Estimating malaria burden in sub-Saharan Africa under intervention disruption using satellite-derived representations",
       "link": "https://www.nature.com/articles/s41467-026-79054-y",
       "source": "Nature Malaria",
@@ -82,10 +68,24 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04722-x/MediaObjects/41591_2026_4722_Fig1_HTML.png"
     },
     {
+      "title": "WHO guidelines for malaria",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEYXQtMzlXbXhtRlRqVmxXNDY0dkRrUVpTVUZLRkJNSVl6Q2xQWEZXdTZwZjBxeG5mTnhYYVZ4UzQ1cWFnT2ItNnZZTU9XOGRYSGVkVzhVQjRESVZzNHRSbERsSGxRUDBjdnJhTGYzTQ?oc=5",
+      "source": "World Health Organization (WHO)",
+      "pubDate": "2026-09-10T07:00:00+00:00",
+      "image": null
+    },
+    {
       "title": "The UN supports improving data on malaria and HIV",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGFpOVF2b3R4ZU96R0Jyb1JxenVBY2p4SUZBN0Q3MGFNemY0dExYd280TjUzcjFpa1JKWVNiVzhyUE4yZWl3d05SSmxrSDIwMjd6RGEzdklEMlNoQnFkY3YyVDY4TXhqM0FqN1pYVHBJdHlZcUNpY0pxT3ZuMTgtWGhxZkhrT3FiSHhJcFpyT21QLWVHT2taTTBZTDg?oc=5",
       "source": "WHO | Regional Office for Africa",
       "pubDate": "2026-09-04T08:59:54+00:00",
+      "image": null
+    },
+    {
+      "title": "A bigger killer than AIDS, malaria and tuberculosis combined",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1NEdVduLWhCMi14cVdrWWMxTFA0QjdDdF9HR1o1VXZ1ekF4a01NSkJ4UHpHTDUyWm1OeWhtZ0Y1QkptdEZUMldjZHp0Y0VPd1M5ZVJtUU9zSXhVRXh4ZWNaRkgzendJbVdMaXR3d1VHZzYyZ0pNc2dXZ3RLbmFybzFiQXJIbl93SnhaQ0JNelVmSUpoeUtiWkZLMV9kcm05QzMzejNn?oc=5",
+      "source": "WHO | Regional Office for Africa",
+      "pubDate": "2026-09-03T01:04:52+00:00",
       "image": null
     }
   ]
